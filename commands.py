@@ -49,23 +49,23 @@ def plink_data_processing(file_prefix, name_file_path=None):
     fam_file = f"{file_prefix}_binary.fam"
 
     # Converting to binary format for more efficient processing
-    run_command(["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--file", file_prefix, "--make-bed", "--out", f"{file_prefix}_binary"])
+    run_command(["./plink", "--file", file_prefix, "--make-bed", "--out", f"{file_prefix}_binary"])
     remove_duplicate_ids(fam_file)
 
     # Processing steps using plink
     commands = [
-        ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_binary", "--geno", "0.05", "--make-bed", "--out", f"{file_prefix}_snp_callrate_filtered"],
-        ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_snp_callrate_filtered", "--mind", "0.1", "--make-bed", "--out", f"{file_prefix}_indiv_callrate_filtered"],
-        ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_indiv_callrate_filtered", "--maf", "0.01", "--make-bed", "--out", f"{file_prefix}_maf_filtered"],
-        ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_maf_filtered", "--hwe", "1e-6", "--make-bed", "--out", f"{file_prefix}_hwe_filtered"],
-        ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_hwe_filtered", "--chr", "1-22", "--make-bed", "--out", f"{file_prefix}_autosomes"],
+        ["./plink", "--bfile", f"{file_prefix}_binary", "--geno", "0.05", "--make-bed", "--out", f"{file_prefix}_snp_callrate_filtered"],
+        ["./plink", "--bfile", f"{file_prefix}_snp_callrate_filtered", "--mind", "0.1", "--make-bed", "--out", f"{file_prefix}_indiv_callrate_filtered"],
+        ["./plink", "--bfile", f"{file_prefix}_indiv_callrate_filtered", "--maf", "0.01", "--make-bed", "--out", f"{file_prefix}_maf_filtered"],
+        ["./plink", "--bfile", f"{file_prefix}_maf_filtered", "--hwe", "1e-6", "--make-bed", "--out", f"{file_prefix}_hwe_filtered"],
+        ["./plink", "--bfile", f"{file_prefix}_hwe_filtered", "--chr", "1-22", "--make-bed", "--out", f"{file_prefix}_autosomes"],
     ]
 
     for command in commands:
         run_command(command)
 
     # Removing specific individuals and dividing by chromosomes
-    final_command = ["/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink", "--bfile", f"{file_prefix}_autosomes", "--make-bed", "--out", f"{file_prefix}_filtered"]
+    final_command = ["./plink", "--bfile", f"{file_prefix}_autosomes", "--make-bed", "--out", f"{file_prefix}_filtered"]
     if name_file_path:
         final_command.insert(2, "--remove")
         final_command.insert(3, name_file_path)
@@ -75,7 +75,7 @@ def plink_data_processing(file_prefix, name_file_path=None):
     for chr_num in range(1, 23):
         # Generate BED file
         run_command([
-            "/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink",
+            "./plink",
             "--bfile", f"{file_prefix}_filtered",
             "--chr", str(chr_num),
             "--make-bed", "--out", f"{file_prefix}_filtered_chr{chr_num}"
@@ -83,11 +83,11 @@ def plink_data_processing(file_prefix, name_file_path=None):
 
         # Generate VCF file
         run_command([
-            "/Users/kristinagrigaityte/PycharmProjects/ArchIE/plink/plink",
+            "./plink",
             "--bfile", f"{file_prefix}_filtered_chr{chr_num}",
             "--recode", "vcf",
             "--out", f"{file_prefix}_filtered_chr{chr_num}"
         ])
 
 
-plink_data_processing("Lithuanian_raw_SNP_final", name_file_path="/Users/kristinagrigaityte/PycharmProjects/ArchIE/data/people.txt")
+plink_data_processing("Lithuanian_raw_SNP_final", name_file_path="./people.txt")
