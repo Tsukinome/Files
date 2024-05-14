@@ -1,0 +1,2249 @@
+SNP,Positions,Pred,PredClass
+rs1077446,244913,,Overdominance
+rs4897943,255499,,Overdominance
+rs7250095,269308,,Overdominance
+rs3816322,286946,,Overdominance
+rs882572,291700,,Overdominance
+rs10423498,305248,,Overdominance
+rs7254684,307003,,Overdominance
+rs618409,315694,,Overdominance
+rs689448,317451,,Overdominance
+rs3764571,327382,,Overdominance
+rs12151104,335644,,Overdominance
+rs12611418,339413,,Overdominance
+rs12981152,369769,,Overdominance
+rs8112380,371755,,Overdominance
+rs740871,405430,,Overdominance
+rs7246920,458450,,Overdominance
+rs4919908,459626,,Overdominance
+rs3745924,462453,,Overdominance
+rs11666491,463568,,Overdominance
+rs12611042,505919,,Overdominance
+rs8637,533774,,Overdominance
+rs12977551,597151,,Overdominance
+rs3787004,608666,,Overdominance
+rs916904,614929,,Overdominance
+rs2301741,626106,,Overdominance
+rs2301742,626513,,Overdominance
+rs10439151,637574,,Overdominance
+rs7359958,638835,,Overdominance
+rs7247331,650109,,Overdominance
+rs3787017,676939,,Overdominance
+rs3787019,681030,,Overdominance
+rs1009691,681235,,Overdominance
+rs1009690,681297,,Overdominance
+rs1050457,682144,,Overdominance
+rs8104762,701173,,Overdominance
+rs13345388,702553,,Overdominance
+rs606119,778655,,Overdominance
+rs2066983,792398,,Overdominance
+rs351111,795019,,Overdominance
+rs2285899,939175,,Overdominance
+rs2240152,943903,,Overdominance
+rs4807395,953847,,Overdominance
+rs2240158,956229,,Overdominance
+rs11085233,958353,,Overdominance
+rs4807440,977477,,Overdominance
+rs3764652,1003004,,Overdominance
+rs3752242,1004676,,Overdominance
+rs3752243,1005059,,Overdominance
+rs881768,1007064,,Overdominance
+rs2279796,1010003,,Overdominance
+rs10421359,1021991,,Overdominance
+rs3761028,1036966,,Overdominance
+rs10439143,1049066,,Overdominance
+rs11084883,1049247,,Overdominance
+rs4239605,1050700,,Overdominance
+rs757228,1052991,,Overdominance
+rs713041,1057614,,Overdominance
+rs2074451,1058034,,Overdominance
+rs2302109,1061829,,Overdominance
+rs2074920,1070019,,Overdominance
+rs2019107,1132716,,Overdominance
+rs11882232,1133414,,Overdominance
+rs1076230,1195900,,Overdominance
+rs3746106,1201109,,Overdominance
+rs758147,1273312,,Overdominance
+rs9749349,1280639,,Overdominance
+rs10402248,1290058,,Overdominance
+rs2285972,1309725,,Overdominance
+rs17673260,1315306,,Overdominance
+rs2526133,1316608,,Overdominance
+rs698748,1375888,,Overdominance
+rs3760994,1386771,,Overdominance
+rs12005,1408874,,Overdominance
+rs197198,1456874,,Overdominance
+rs791461,1458535,,Overdominance
+rs17604651,1490267,,Overdominance
+rs10405028,1497211,,Overdominance
+rs10407104,1513643,,Overdominance
+rs4807934,1537217,,Overdominance
+rs758869,1619161,,Overdominance
+rs2041218,1663898,,Overdominance
+rs10413694,1674463,,Overdominance
+rs4807954,1677233,,Overdominance
+rs12978813,1717737,,Overdominance
+rs8100003,1743997,,Overdominance
+rs7250872,1762602,,Overdominance
+rs732310,1784338,,Overdominance
+rs12974664,1807186,,Overdominance
+rs10414308,1827566,,Overdominance
+rs3810416,1833762,,Overdominance
+rs1610107,1834433,,Overdominance
+rs11669357,1903586,,Overdominance
+rs2396366,1903841,,Overdominance
+rs4807179,1907035,,Overdominance
+rs4405674,1963477,,Overdominance
+rs1599860,1995175,,Overdominance
+rs758145,2024466,,Overdominance
+rs2108825,2087515,,Overdominance
+rs4806831,2087703,,Overdominance
+rs3786971,2092209,,Overdominance
+rs2108524,2121764,,Overdominance
+rs12459350,2127586,,Overdominance
+rs12980348,2132607,,Overdominance
+rs2864419,2134175,,Overdominance
+rs7248941,2141690,,Overdominance
+rs2074554,2150351,,Overdominance
+rs2301800,2162050,,Overdominance
+rs8112524,2201527,,Overdominance
+rs12982784,2297882,,Overdominance
+rs2385174,2320931,,Overdominance
+rs7248779,2354564,,Overdominance
+rs11084940,2384890,,Overdominance
+rs11670333,2436656,,Overdominance
+rs2392644,2442934,,Overdominance
+rs11084942,2445245,,Overdominance
+rs11084943,2454628,,Overdominance
+rs7258864,2463606,,Overdominance
+rs917415,2465373,,Overdominance
+rs12985186,2466874,,Overdominance
+rs4806864,2483725,,Overdominance
+rs16989558,2489668,,Overdominance
+rs8113423,2493673,,Overdominance
+rs887270,2501852,,Overdominance
+rs2873409,2559353,,Overdominance
+rs11667297,2674383,,Overdominance
+rs2260416,2747355,,Overdominance
+rs1736181,2748703,,Overdominance
+rs1640271,2750979,,Overdominance
+rs1640273,2754227,,Overdominance
+rs576804,2772745,,Overdominance
+rs10417732,2775045,,Overdominance
+rs8107668,2784576,,Overdominance
+rs758769,2796583,,Overdominance
+rs9304900,2824439,,Overdominance
+rs8103080,2848133,,Overdominance
+rs3855680,2857475,,Overdominance
+rs4807359,2857556,,Overdominance
+rs2288958,2868287,,Overdominance
+rs11666431,2904087,,Overdominance
+rs4807380,2931269,,Overdominance
+rs1688128,2981168,,Overdominance
+rs306048,2991154,,Overdominance
+rs11084994,3019427,,Overdominance
+rs4806907,3044163,,Overdominance
+rs1104737,3047788,,Overdominance
+rs2238625,3055652,,Overdominance
+rs308054,3056987,,Overdominance
+rs308063,3063023,,Overdominance
+rs411386,3064903,,Overdominance
+rs3786947,3065229,,Overdominance
+rs1465245,3087845,,Overdominance
+rs1682809,3116895,,Overdominance
+rs507872,3136552,,Overdominance
+rs507905,3136563,,Overdominance
+rs311625,3152695,,Overdominance
+rs426633,3173856,,Overdominance
+rs312929,3224188,,Overdominance
+rs11669592,3269509,,Overdominance
+rs740521,3318745,,Overdominance
+rs11085016,3323514,,Overdominance
+rs4807475,3419503,,Overdominance
+rs4807485,3475311,,Overdominance
+rs12976454,3495971,,Overdominance
+rs17674491,3496628,,Overdominance
+rs2240754,3503093,,Overdominance
+rs2108389,3542589,,Overdominance
+rs10410258,3543729,,Overdominance
+rs10411250,3543854,,Overdominance
+rs768962,3566164,,Overdominance
+rs12460780,3596947,,Overdominance
+rs12984273,3598901,,Overdominance
+rs2074957,3604525,,Overdominance
+rs10432303,3607652,,Overdominance
+rs757454,3611619,,Overdominance
+rs10416362,3691658,,Overdominance
+rs501168,3697087,,Overdominance
+rs1046268,3701615,,Overdominance
+rs1046271,3701622,,Overdominance
+rs1046278,3701690,,Overdominance
+rs8102086,3703874,,Overdominance
+rs3746120,3704769,,Overdominance
+rs1106643,3768894,,Overdominance
+rs8110279,3779433,,Overdominance
+rs11670741,3806977,,Overdominance
+rs10401177,3825604,,Overdominance
+rs4806962,3830033,,Overdominance
+rs4807534,3881874,,Overdominance
+rs12459940,4069870,,Overdominance
+rs350825,4091563,,Overdominance
+rs7260407,4153793,,Overdominance
+rs12978469,4161356,,Overdominance
+rs8110516,4165467,,Overdominance
+rs353694,4194792,,Overdominance
+rs4807563,4219341,,Overdominance
+rs4807567,4229502,,Overdominance
+rs6510803,4254164,,Overdominance
+rs4807578,4257311,,Overdominance
+rs10411394,4276327,,Overdominance
+rs1138253,4276433,,Overdominance
+rs7247504,4284711,,Overdominance
+rs8102860,4297348,,Overdominance
+rs2041775,4306300,,Overdominance
+rs107288,4316396,,Overdominance
+rs243372,4383972,,Overdominance
+rs243375,4388088,,Overdominance
+rs243382,4393528,,Overdominance
+rs2293930,4395855,,Overdominance
+rs2705,4396073,,Overdominance
+rs243387,4396155,,Overdominance
+rs10469324,4417106,,Overdominance
+rs4807590,4423980,,Overdominance
+rs3816048,4426606,,Overdominance
+rs16992406,4431751,,Overdominance
+rs8887,4453201,,Overdominance
+rs966384,4489599,,Overdominance
+rs4635456,4502215,,Overdominance
+rs1610094,4505583,,Overdominance
+rs10413447,4526373,,Overdominance
+rs4807609,4533205,,Overdominance
+rs12979155,4541877,,Overdominance
+rs7255247,4548413,,Overdominance
+rs892162,4558587,,Overdominance
+rs7250560,4561238,,Overdominance
+rs11880374,4587945,,Overdominance
+rs16992471,4591295,,Overdominance
+rs1467941,4671523,,Overdominance
+rs10411311,4686663,,Overdominance
+rs4807628,4698145,,Overdominance
+rs11085096,4734024,,Overdominance
+rs4806998,4747781,,Overdominance
+rs7255265,4769377,,Overdominance
+rs4807650,4772611,,Overdominance
+rs6510827,4781627,,Overdominance
+rs10424978,4788557,,Overdominance
+rs10409269,4795205,,Overdominance
+rs1055919,4803137,,Overdominance
+rs3760948,4819802,,Overdominance
+rs2602701,4826765,,Overdominance
+rs2779169,4851684,,Overdominance
+rs262567,4884228,,Overdominance
+rs262566,4887950,,Overdominance
+rs2602734,4898041,,Overdominance
+rs2613766,5017995,,Overdominance
+rs2251127,5089229,,Overdominance
+rs2620833,5096960,,Overdominance
+rs741696,5129323,,Overdominance
+rs2620812,5140267,,Overdominance
+rs11085118,5165158,,Overdominance
+rs12973477,5176031,,Overdominance
+rs4807699,5177411,,Overdominance
+rs17130,5205969,,Overdominance
+rs4807703,5216221,,Overdominance
+rs8103500,5237347,,Overdominance
+rs7259159,5262330,,Overdominance
+rs1558138,5265996,,Overdominance
+rs3948683,5275831,,Overdominance
+rs2890212,5299786,,Overdominance
+rs8111216,5304576,,Overdominance
+rs892136,5306437,,Overdominance
+rs2082465,5310211,,Overdominance
+rs1982081,5323802,,Overdominance
+rs4807751,5349798,,Overdominance
+rs1384936,5374643,,Overdominance
+rs8111234,5377449,,Overdominance
+rs4375786,5406422,,Overdominance
+rs8107825,5406978,,Overdominance
+rs8111108,5407450,,Overdominance
+rs7247783,5415288,,Overdominance
+rs797544,5430522,,Overdominance
+rs11085140,5432300,,Overdominance
+rs7254746,5443621,,Overdominance
+rs406063,5450247,,Overdominance
+rs669510,5468034,,Overdominance
+rs385839,5473356,,Overdominance
+rs2288947,5513115,,Overdominance
+rs8105637,5517232,,Overdominance
+rs2436535,5685239,,Overdominance
+rs4807817,5804008,,Overdominance
+rs1674153,5831948,,Overdominance
+rs10432306,5843743,,Overdominance
+rs12462305,5887689,,Overdominance
+rs4807830,5930820,,Overdominance
+rs452767,5946449,,Overdominance
+rs673153,5984976,,Overdominance
+rs2335629,6154146,,Overdominance
+rs872664,6262817,,Overdominance
+rs1982082,6273441,,Overdominance
+rs3911998,6360117,,Overdominance
+rs2305058,6367123,,Overdominance
+rs2860185,6387222,,Overdominance
+rs348365,6406414,,Overdominance
+rs3745571,6426613,,Overdominance
+rs3852883,6434465,,Overdominance
+rs3865467,6461126,,Overdominance
+rs11085177,6471490,,Overdominance
+rs11667269,6473134,,Overdominance
+rs12151125,6475406,,Overdominance
+rs3865469,6486497,,Overdominance
+rs348374,6498141,,Overdominance
+rs10853994,6506363,,Overdominance
+rs10422845,6511923,,Overdominance
+rs11490542,6524967,,Overdominance
+rs400658,6573352,,Overdominance
+rs1862508,6583418,,Overdominance
+rs447135,6593448,,Overdominance
+rs3760746,6621528,,Overdominance
+rs11878563,6621909,,Overdominance
+rs11569562,6629752,,Overdominance
+rs2277984,6630510,,Overdominance
+rs7257062,6636944,,Overdominance
+rs11672613,6656245,,Overdominance
+rs2047139,6683614,,Overdominance
+rs339408,6693863,,Overdominance
+rs4807101,6766948,,Overdominance
+rs164016,6771950,,Overdominance
+rs3786688,6782654,,Overdominance
+rs330876,6846866,,Overdominance
+rs467439,6867493,,Overdominance
+rs3895916,6878996,,Overdominance
+rs6510931,6884731,,Overdominance
+rs7259047,6894410,,Overdominance
+rs625183,6919186,,Overdominance
+rs2914572,7019206,,Overdominance
+rs966591,7034628,,Overdominance
+rs8110740,7034760,,Overdominance
+rs6510944,7035306,,Overdominance
+rs2352958,7035746,,Overdominance
+rs8103483,7096373,,Overdominance
+rs2059807,7117108,,Overdominance
+rs2115386,7147564,,Overdominance
+rs7254358,7150340,,Overdominance
+rs2042902,7155470,,Overdominance
+rs12971499,7165281,,Overdominance
+rs7508679,7173831,,Overdominance
+rs4804416,7174847,,Overdominance
+rs7248104,7175430,,Overdominance
+rs6510976,7217943,,Overdominance
+rs7254921,7229452,,Overdominance
+rs12974783,7382885,,Overdominance
+rs12977838,7383985,,Overdominance
+rs11260076,7394671,,Overdominance
+rs12611049,7399687,,Overdominance
+rs7259729,7400957,,Overdominance
+rs11880140,7444117,,Overdominance
+rs508740,7524660,,Overdominance
+rs7260296,7541689,,Overdominance
+rs11882529,7561810,,Overdominance
+rs1644757,7569768,,Overdominance
+rs794088,7584127,,Overdominance
+rs794084,7598058,,Overdominance
+rs6791,7618277,,Overdominance
+rs2081075,7629461,,Overdominance
+rs10401670,7648802,,Overdominance
+rs11260013,7665676,,Overdominance
+rs2277989,7667811,,Overdominance
+rs12984870,7670157,,Overdominance
+rs1010047,7699502,,Overdominance
+rs2112927,7731104,,Overdominance
+rs608773,7743306,,Overdominance
+rs7259539,7752887,,Overdominance
+rs10412466,7755978,,Overdominance
+rs12980113,7774715,,Overdominance
+rs2335859,7777837,,Overdominance
+rs580984,7787029,,Overdominance
+rs652260,7806562,,Overdominance
+rs525420,7842208,,Overdominance
+rs11260038,7850849,,Overdominance
+rs2115107,7874168,,Overdominance
+rs4804833,7876635,,Overdominance
+rs8107967,7878614,,Overdominance
+rs7252142,7918014,,Overdominance
+rs3786619,7948431,,Overdominance
+rs6603134,8012520,,Overdominance
+rs4804252,8018621,,Overdominance
+rs7351083,8036238,,Overdominance
+rs7257948,8044053,,Overdominance
+rs8103218,8049114,,Overdominance
+rs3745393,8049164,,Overdominance
+rs7245429,8065361,,Overdominance
+rs11260053,8069296,,Overdominance
+rs4804264,8082919,,Overdominance
+rs4527136,8092519,,Overdominance
+rs3813778,8097401,,Overdominance
+rs10416763,8138734,,Overdominance
+rs8110054,8146413,,Overdominance
+rs10409603,8219573,,Overdominance
+rs367443,8224879,,Overdominance
+rs193933,8237375,,Overdominance
+rs250508,8240280,,Overdominance
+rs3760680,8280407,,Overdominance
+rs2241590,8292701,,Overdominance
+rs2972574,8300092,,Overdominance
+rs7248719,8324901,,Overdominance
+rs2278236,8337580,,Overdominance
+rs7254882,8359822,,Overdominance
+rs2967618,8375963,,Overdominance
+rs889180,8477303,,Overdominance
+rs2910443,8482307,,Overdominance
+rs2002073,8491167,,Overdominance
+rs10416597,8538587,,Overdominance
+rs11259990,8540766,,Overdominance
+rs4542783,8548160,,Overdominance
+rs8108747,8574121,,Overdominance
+rs2967682,8644532,,Overdominance
+rs2967674,8650440,,Overdominance
+rs4804079,8669373,,Overdominance
+rs10410943,8669900,,Overdominance
+rs301407,8675892,,Overdominance
+rs301409,8676249,,Overdominance
+rs301410,8676355,,Overdominance
+rs301424,8685564,,Overdominance
+rs36243,8695276,,Overdominance
+rs36240,8702079,,Overdominance
+rs1423049,8796418,,Overdominance
+rs17417136,8815087,,Overdominance
+rs2059136,8827475,,Overdominance
+rs3764554,8837470,,Overdominance
+rs12981608,8898160,,Overdominance
+rs12984694,8906518,,Overdominance
+rs17000770,8927259,,Overdominance
+rs2591592,8936345,,Overdominance
+rs1609460,8945183,,Overdominance
+rs8111512,8969393,,Overdominance
+rs8101404,9002939,,Overdominance
+rs11670174,9033182,,Overdominance
+rs10414250,9238716,,Overdominance
+rs10401135,9304332,,Overdominance
+rs10418104,9316390,,Overdominance
+rs7253373,9317230,,Overdominance
+rs2217652,9351814,,Overdominance
+rs3826783,9353141,,Overdominance
+rs6512110,9383724,,Overdominance
+rs10515,9384723,,Overdominance
+rs2241356,9385185,,Overdominance
+rs11880207,9392693,,Overdominance
+rs10411141,9397203,,Overdominance
+rs10404721,9402833,,Overdominance
+rs4804108,9416855,,Overdominance
+rs4804109,9417039,,Overdominance
+rs4133457,9425428,,Overdominance
+rs7257399,9441866,,Overdominance
+rs10415281,9460034,,Overdominance
+rs11669128,9462155,,Overdominance
+rs10854157,9467461,,Overdominance
+rs1203010,9530467,,Overdominance
+rs10417481,9549337,,Overdominance
+rs12979274,9861925,,Overdominance
+rs2303099,9977375,,Overdominance
+rs1644733,9990262,,Overdominance
+rs4804480,10037663,,Overdominance
+rs897803,10040657,,Overdominance
+rs12610201,10041795,,Overdominance
+rs12610576,10042347,,Overdominance
+rs11880298,10049210,,Overdominance
+rs1551570,10079030,,Overdominance
+rs11666402,10080076,,Overdominance
+rs12460842,10083195,,Overdominance
+rs2305795,10087052,,Overdominance
+rs7710,10087256,,Overdominance
+rs4804122,10102944,,Overdominance
+rs8101626,10107029,,Overdominance
+rs2290684,10112747,,Overdominance
+rs2228611,10128076,,Overdominance
+rs10409243,10193987,,Overdominance
+rs5498,10256682,,Overdominance
+rs923366,10258222,,Overdominance
+rs3093030,10258402,,Overdominance
+rs2569693,10260903,,Overdominance
+rs2228615,10264367,,Overdominance
+rs12150978,10269318,,Overdominance
+rs378395,10287422,,Overdominance
+rs875569,10529953,,Overdominance
+rs3745249,10531991,,Overdominance
+rs2569507,10659904,,Overdominance
+rs1541596,10848012,,Overdominance
+rs3786721,11007499,,Overdominance
+rs688,11088601,,Overdominance
+rs2738450,11089964,,Overdominance
+rs2738459,11099472,,Overdominance
+rs6413504,11102914,,Overdominance
+rs4804147,11117285,,Overdominance
+rs379309,11145302,,Overdominance
+rs370229,11145482,,Overdominance
+rs440677,11146390,,Overdominance
+rs4804150,11188571,,Overdominance
+rs322141,11287639,,Overdominance
+rs12976608,11320260,,Overdominance
+rs7251786,11326129,,Overdominance
+rs167479,11387765,,Overdominance
+rs34095,11402685,,Overdominance
+rs889366,11559137,,Overdominance
+rs17448895,11573531,,Overdominance
+rs9973303,11574932,,Overdominance
+rs4545929,11588503,,Overdominance
+rs4804612,11590197,,Overdominance
+rs11879017,11598612,,Overdominance
+rs10420734,11624009,,Overdominance
+rs4804629,11631579,,Overdominance
+rs7254781,11680193,,Overdominance
+rs5851,11693283,,Overdominance
+rs286268,11700011,,Overdominance
+rs7251224,11731583,,Overdominance
+rs8099884,11734382,,Overdominance
+rs384148,11739095,,Overdominance
+rs383884,11740420,,Overdominance
+rs394957,11742451,,Overdominance
+rs444131,11746777,,Overdominance
+rs412816,11749044,,Overdominance
+rs7253875,11766343,,Overdominance
+rs7254316,11776185,,Overdominance
+rs286246,11815562,,Overdominance
+rs282748,11825207,,Overdominance
+rs282749,11826918,,Overdominance
+rs279210,11832685,,Overdominance
+rs279215,11841331,,Overdominance
+rs279205,11875274,,Overdominance
+rs279256,11915516,,Overdominance
+rs12972428,12060755,,Overdominance
+rs6511789,12347228,,Overdominance
+rs17706075,12352779,,Overdominance
+rs11668074,12352955,,Overdominance
+rs11666071,12355135,,Overdominance
+rs12981699,12391752,,Overdominance
+rs2112844,12409494,,Overdominance
+rs7252123,12423017,,Overdominance
+rs17469542,12426696,,Overdominance
+rs1423089,12450726,,Overdominance
+rs3810306,12466955,,Overdominance
+rs3859517,12477492,,Overdominance
+rs3745651,12553001,,Overdominance
+rs722571,12672379,,Overdominance
+rs1205170,12766246,,Overdominance
+rs2965216,12932082,,Overdominance
+rs11668444,12937186,,Overdominance
+rs10403210,12964638,,Overdominance
+rs4926172,12969622,,Overdominance
+rs892020,13128185,,Overdominance
+rs752340,13137345,,Overdominance
+rs8103974,13153745,,Overdominance
+rs3816027,13196432,,Overdominance
+rs12611029,13216633,,Overdominance
+rs2302080,13217380,,Overdominance
+rs4926248,13244313,,Overdominance
+rs4926249,13244347,,Overdominance
+rs7256928,13313275,,Overdominance
+rs10418748,13335220,,Overdominance
+rs8105564,13339170,,Overdominance
+rs7250857,13345853,,Overdominance
+rs2419549,13355259,,Overdominance
+rs4926285,13392611,,Overdominance
+rs4926286,13395236,,Overdominance
+rs4632265,13399543,,Overdominance
+rs2112460,13451412,,Overdominance
+rs1862260,13452772,,Overdominance
+rs12982515,13507248,,Overdominance
+rs10414182,13517152,,Overdominance
+rs11668370,13553602,,Overdominance
+rs2112465,13557431,,Overdominance
+rs10416242,13611618,,Overdominance
+rs7246997,13625099,,Overdominance
+rs109083,13720267,,Overdominance
+rs378189,13726069,,Overdominance
+rs442573,13727404,,Overdominance
+rs417186,13727866,,Overdominance
+rs371671,13731153,,Overdominance
+rs1469071,13744099,,Overdominance
+rs346155,13746127,,Overdominance
+rs8107465,13836377,,Overdominance
+rs2306190,14023675,,Overdominance
+rs10425874,14031422,,Overdominance
+rs8100676,14056891,,Overdominance
+rs10421422,14107428,,Overdominance
+rs9677023,14198898,,Overdominance
+rs7248277,14236895,,Overdominance
+rs12983952,14237245,,Overdominance
+rs498284,14245736,,Overdominance
+rs888876,14277793,,Overdominance
+rs12609693,14279788,,Overdominance
+rs11665898,14292710,,Overdominance
+rs11670064,14308600,,Overdominance
+rs12977018,14323121,,Overdominance
+rs4926207,14334036,,Overdominance
+rs4926214,14435252,,Overdominance
+rs4926221,14475241,,Overdominance
+rs8104167,14525933,,Overdominance
+rs754192,14531837,,Overdominance
+rs11085898,14540428,,Overdominance
+rs10420780,14592686,,Overdominance
+rs2126979,14601443,,Overdominance
+rs726788,14604245,,Overdominance
+rs8111925,14609113,,Overdominance
+rs8113491,14612929,,Overdominance
+rs11085903,14627584,,Overdominance
+rs3813145,14667162,,Overdominance
+rs4808319,14678062,,Overdominance
+rs11085908,14683559,,Overdominance
+rs11666622,14691568,,Overdominance
+rs2524363,14700490,,Overdominance
+rs9305048,14740034,,Overdominance
+rs2190686,14799616,,Overdominance
+rs2335227,14810834,,Overdominance
+rs3752192,14812605,,Overdominance
+rs8108703,14833346,,Overdominance
+rs11085914,14839191,,Overdominance
+rs1122713,14889182,,Overdominance
+rs715159,14900519,,Overdominance
+rs7508186,14996228,,Overdominance
+rs714920,15012718,,Overdominance
+rs3181304,15021908,,Overdominance
+rs10406273,15023030,,Overdominance
+rs2158468,15023758,,Overdominance
+rs2074262,15087970,,Overdominance
+rs2074265,15094581,,Overdominance
+rs12974057,15107479,,Overdominance
+rs1114312,15119504,,Overdominance
+rs4808272,15213372,,Overdominance
+rs10854143,15373720,,Overdominance
+rs8099840,15442025,,Overdominance
+rs733731,15448184,,Overdominance
+rs959117,15450328,,Overdominance
+rs2366057,15452052,,Overdominance
+rs8102864,15472753,,Overdominance
+rs11085958,15501288,,Overdominance
+rs1273522,15501972,,Overdominance
+rs4310987,15509148,,Overdominance
+rs6512044,15510509,,Overdominance
+rs2280435,15523544,,Overdominance
+rs2280434,15523732,,Overdominance
+rs1320318,15585855,,Overdominance
+rs1320319,15586424,,Overdominance
+rs4808324,15586792,,Overdominance
+rs4808325,15586922,,Overdominance
+rs4646522,15587360,,Overdominance
+rs7254518,15588766,,Overdominance
+rs2176918,15591922,,Overdominance
+rs7256985,15593070,,Overdominance
+rs4646529,15596125,,Overdominance
+rs10409533,15607803,,Overdominance
+rs3794987,15611891,,Overdominance
+rs1290616,15612566,,Overdominance
+rs1290617,15612896,,Overdominance
+rs7258240,15633414,,Overdominance
+rs4343408,15633530,,Overdominance
+rs10425683,15633548,,Overdominance
+rs4358060,15633563,,Overdominance
+rs2178775,15634339,,Overdominance
+rs6512050,15634914,,Overdominance
+rs7253222,15635660,,Overdominance
+rs10426584,15636210,,Overdominance
+rs7246301,15637155,,Overdominance
+rs4807969,15642200,,Overdominance
+rs4808358,15642246,,Overdominance
+rs4807971,15642481,,Overdominance
+rs10409750,15652606,,Overdominance
+rs660247,15657507,,Overdominance
+rs626223,15663686,,Overdominance
+rs627971,15664094,,Overdominance
+rs4808362,15664892,,Overdominance
+rs593818,15668884,,Overdominance
+rs9284441,15670652,,Overdominance
+rs10518253,15720712,,Overdominance
+rs1036251,15768115,,Overdominance
+rs8103263,15782848,,Overdominance
+rs2214534,15788770,,Overdominance
+rs12973285,15796251,,Overdominance
+rs8102407,15810895,,Overdominance
+rs10410515,15814243,,Overdominance
+rs3093170,15856974,,Overdominance
+rs1558139,15858563,,Overdominance
+rs3093148,15862740,,Overdominance
+rs3093145,15862851,,Overdominance
+rs2108623,15878006,,Overdominance
+rs12459140,15882888,,Overdominance
+rs12610962,15884377,,Overdominance
+rs11086010,15884464,,Overdominance
+rs1060467,15885538,,Overdominance
+rs2072270,15885774,,Overdominance
+rs12977516,15886918,,Overdominance
+rs11086017,15946596,,Overdominance
+rs4808012,15969794,,Overdominance
+rs8102934,15973740,,Overdominance
+rs8106097,15987795,,Overdominance
+rs1029513,15988800,,Overdominance
+rs4239628,15990440,,Overdominance
+rs4808423,15997405,,Overdominance
+rs4808427,16003976,,Overdominance
+rs4808428,16004066,,Overdominance
+rs4808430,16004944,,Overdominance
+rs1056176,16012223,,Overdominance
+rs4808432,16018435,,Overdominance
+rs10409140,16020493,,Overdominance
+rs11086021,16025906,,Overdominance
+rs8110325,16037940,,Overdominance
+rs10412605,16046110,,Overdominance
+rs7247875,16053625,,Overdominance
+rs2303149,16058420,,Overdominance
+rs4321304,16115421,,Overdominance
+rs2124905,16237146,,Overdominance
+rs3855681,16259314,,Overdominance
+rs8101619,16271530,,Overdominance
+rs501537,16286502,,Overdominance
+rs12462380,16298048,,Overdominance
+rs2287869,16527100,,Overdominance
+rs754292,16560813,,Overdominance
+rs754291,16561051,,Overdominance
+rs812847,16716265,,Overdominance
+rs773845,16729963,,Overdominance
+rs773852,16733940,,Overdominance
+rs10415034,16806205,,Overdominance
+rs706760,16814880,,Overdominance
+rs799184,16822869,,Overdominance
+rs10407613,16849786,,Overdominance
+rs773855,16880907,,Overdominance
+rs706761,16886291,,Overdominance
+rs8109515,16911568,,Overdominance
+rs2353203,16960980,,Overdominance
+rs2168632,16977245,,Overdominance
+rs4808552,16980076,,Overdominance
+rs8106270,16987589,,Overdominance
+rs1979261,17054518,,Overdominance
+rs1979260,17054551,,Overdominance
+rs11671858,17062520,,Overdominance
+rs7254359,17100566,,Overdominance
+rs962917,17163247,,Overdominance
+rs2305765,17173992,,Overdominance
+rs2305764,17174833,,Overdominance
+rs8108998,17175874,,Overdominance
+rs8110964,17178955,,Overdominance
+rs2363956,17255124,,Overdominance
+rs2303680,17392450,,Overdominance
+rs754847,17402017,,Overdominance
+rs8109084,17408179,,Overdominance
+rs8100064,17436610,,Overdominance
+rs11665774,17441706,,Overdominance
+rs11666579,17451280,,Overdominance
+rs4808657,17477040,,Overdominance
+rs2278280,17477170,,Overdominance
+rs1078000,17482508,,Overdominance
+rs879142,17483391,,Overdominance
+rs8102140,17484339,,Overdominance
+rs11086076,17485714,,Overdominance
+rs6743,17489587,,Overdominance
+rs8104468,17489737,,Overdominance
+rs2375592,17494932,,Overdominance
+rs7251306,17513396,,Overdominance
+rs3746317,17527919,,Overdominance
+rs891184,17552751,,Overdominance
+rs10422926,17561980,,Overdominance
+rs10416963,17623890,,Overdominance
+rs12978632,17634433,,Overdominance
+rs6512211,17643217,,Overdominance
+rs10419687,17650409,,Overdominance
+rs10410487,17690608,,Overdominance
+rs2287860,17705325,,Overdominance
+rs7253117,17705894,,Overdominance
+rs12151113,17720370,,Overdominance
+rs12979056,17723131,,Overdominance
+rs4808095,17741628,,Overdominance
+rs2287859,17746270,,Overdominance
+rs13345379,17748563,,Overdominance
+rs265555,17756874,,Overdominance
+rs265552,17761158,,Overdominance
+rs265548,17763333,,Overdominance
+rs4808100,17792497,,Overdominance
+rs10419991,17799890,,Overdominance
+rs7250332,17922509,,Overdominance
+rs7252014,17941991,,Overdominance
+rs8182587,17968913,,Overdominance
+rs4808737,17978646,,Overdominance
+rs7255640,17984617,,Overdominance
+rs10426256,17985755,,Overdominance
+rs91710,18002123,,Overdominance
+rs12973060,18017315,,Overdominance
+rs10422102,18018498,,Overdominance
+rs10424480,18018551,,Overdominance
+rs1870063,18031961,,Overdominance
+rs372889,18034602,,Overdominance
+rs7250425,18062756,,Overdominance
+rs273504,18076247,,Overdominance
+rs273506,18082646,,Overdominance
+rs10401175,18091274,,Overdominance
+rs740691,18095440,,Overdominance
+rs2270623,18106511,,Overdominance
+rs8108738,18116359,,Overdominance
+rs3730179,18138205,,Overdominance
+rs271831,18208539,,Overdominance
+rs999813,18229809,,Overdominance
+rs2277922,18237521,,Overdominance
+rs1469023,18239218,,Overdominance
+rs1075403,18245949,,Overdominance
+rs12608504,18250134,,Overdominance
+rs2227270,18281704,,Overdominance
+rs749451,18340646,,Overdominance
+rs4808814,18498610,,Overdominance
+rs10854166,18513843,,Overdominance
+rs8107912,18568048,,Overdominance
+rs709679,18587856,,Overdominance
+rs3795026,18641768,,Overdominance
+rs4808844,18672966,,Overdominance
+rs10423674,18678903,,Overdominance
+rs757318,18681308,,Overdominance
+rs2240013,18744783,,Overdominance
+rs1024446,18820209,,Overdominance
+rs2238658,18835199,,Overdominance
+rs726407,18855637,,Overdominance
+rs886853,18870469,,Overdominance
+rs2074797,18872244,,Overdominance
+rs3177137,18884853,,Overdominance
+rs2231997,18893637,,Overdominance
+rs4239638,18938385,,Overdominance
+rs4808168,18942701,,Overdominance
+rs2040562,19109106,,Overdominance
+rs7253352,19114196,,Overdominance
+rs7257072,19128989,,Overdominance
+rs10896,19148928,,Overdominance
+rs11085258,19150829,,Overdominance
+rs2238669,19151114,,Overdominance
+rs7247433,19656559,,Overdominance
+rs8112048,19678749,,Overdominance
+rs7246866,19683048,,Overdominance
+rs8110890,19709485,,Overdominance
+rs247784,19727889,,Overdominance
+rs247782,19729879,,Overdominance
+rs248943,19746076,,Overdominance
+rs2192623,19942948,,Overdominance
+rs1558612,19944791,,Overdominance
+rs258578,19971319,,Overdominance
+rs386976,19972134,,Overdominance
+rs2335887,19986791,,Overdominance
+rs12977293,19989389,,Overdominance
+rs11666775,20024633,,Overdominance
+rs2159922,20031214,,Overdominance
+rs7250375,20334553,,Overdominance
+rs10416706,20349698,,Overdominance
+rs7251145,20447888,,Overdominance
+rs10413625,20523385,,Overdominance
+rs4809098,20664930,,Overdominance
+rs7249876,20880696,,Overdominance
+rs8104353,20896937,,Overdominance
+rs9304979,20949974,,Overdominance
+rs12976221,21075289,,Overdominance
+rs7254094,21134926,,Overdominance
+rs29724,21169444,,Overdominance
+rs8101643,21176093,,Overdominance
+rs2217343,21210981,,Overdominance
+rs11085438,21219217,,Overdominance
+rs7252759,21243405,,Overdominance
+rs1781873,21269271,,Overdominance
+rs2088762,21349675,,Overdominance
+rs11085447,21360939,,Overdominance
+rs7257857,21371378,,Overdominance
+rs8107999,21378076,,Overdominance
+rs2968084,21407739,,Overdominance
+rs951162,21413220,,Overdominance
+rs1401926,21532772,,Overdominance
+rs4808279,21543849,,Overdominance
+rs7255395,21587971,,Overdominance
+rs7252706,21588783,,Overdominance
+rs10413702,21657781,,Overdominance
+rs1965611,21905037,,Overdominance
+rs10426971,21950007,,Overdominance
+rs417947,22015870,,Overdominance
+rs3752163,22048236,,Overdominance
+rs1036235,22071381,,Overdominance
+rs8100438,22092843,,Overdominance
+rs10419058,22101812,,Overdominance
+rs7259269,22233010,,Overdominance
+rs283142,22237491,,Overdominance
+rs808372,22262208,,Overdominance
+rs10409520,22304317,,Overdominance
+rs11668269,22305800,,Overdominance
+rs7259586,22329702,,Overdominance
+rs2082480,22330490,,Overdominance
+rs10418203,22358984,,Overdominance
+rs10414591,22391962,,Overdominance
+rs10420380,22392464,,Overdominance
+rs10405295,22400396,,Overdominance
+rs10418950,22402580,,Overdominance
+rs10413967,22470521,,Overdominance
+rs2163819,22484012,,Overdominance
+rs12980509,22744786,,Overdominance
+rs433830,22790902,,Overdominance
+rs401589,22809276,,Overdominance
+rs6511422,23184318,,Overdominance
+rs7254300,23222276,,Overdominance
+rs1044095,23337090,,Overdominance
+rs1948438,23463766,,Overdominance
+rs2640203,23477663,,Overdominance
+rs9305005,23555004,,Overdominance
+rs2099351,23555219,,Overdominance
+rs11085589,23585110,,Overdominance
+rs11671053,23628984,,Overdominance
+rs4530290,23735083,,Overdominance
+rs8109001,23793613,,Overdominance
+rs12976709,23851795,,Overdominance
+rs6511671,23852403,,Overdominance
+rs13344851,23861024,,Overdominance
+rs10401693,23862137,,Overdominance
+rs11880679,23947841,,Overdominance
+rs8104657,24008904,,Overdominance
+rs10420762,24074071,,Overdominance
+rs2278443,24138372,,Overdominance
+rs7508396,24140765,,Overdominance
+rs8100720,24150231,,Overdominance
+rs985196,24159893,,Overdominance
+rs4110083,24171423,,Overdominance
+rs11670547,32675491,,Overdominance
+rs3900417,32728584,,Overdominance
+rs10426848,32836340,,Overdominance
+rs2097765,32848506,,Overdominance
+rs10406627,32877033,,Overdominance
+rs1024728,32923590,,Overdominance
+rs4805576,32949867,,Overdominance
+rs7255207,33077763,0.5481664,Negative Freq-Dep. Selection
+rs2190800,33143105,0.6363058,Negative Freq-Dep. Selection
+rs4805001,33153828,0.65003985,Negative Freq-Dep. Selection
+rs4805798,33165692,,Overdominance
+rs7248185,33184178,0.6103373,Negative Freq-Dep. Selection
+rs7359876,33189521,0.5964027,Negative Freq-Dep. Selection
+rs7248819,33232811,,Overdominance
+rs12984120,33241850,0.6325122,Negative Freq-Dep. Selection
+rs12710035,33243081,0.6325122,Negative Freq-Dep. Selection
+rs7250467,33261241,0.5994671,Negative Freq-Dep. Selection
+rs745845,33261718,0.5994671,Negative Freq-Dep. Selection
+rs1834970,33307556,0.62810266,Negative Freq-Dep. Selection
+rs934108,33328071,0.6632949,Negative Freq-Dep. Selection
+rs8103145,33329039,0.6632949,Negative Freq-Dep. Selection
+rs8107727,33333035,0.60193306,Negative Freq-Dep. Selection
+rs1816243,33335806,0.6182864,Negative Freq-Dep. Selection
+rs2867882,33339428,0.6446457,Negative Freq-Dep. Selection
+rs7253468,33343542,0.63879347,Negative Freq-Dep. Selection
+rs10403316,33346457,0.63425094,Negative Freq-Dep. Selection
+rs4536581,33355650,0.57957846,Negative Freq-Dep. Selection
+rs10417832,33358771,0.56602776,Negative Freq-Dep. Selection
+rs8105259,33410500,,Overdominance
+rs1840816,33413972,0.5966587,Negative Freq-Dep. Selection
+rs2002929,33434113,,Overdominance
+rs11083422,33442325,,Overdominance
+rs10403340,33465742,0.55172676,Negative Freq-Dep. Selection
+rs1840812,33466407,,Overdominance
+rs10404655,33473562,0.5875751,Negative Freq-Dep. Selection
+rs10401492,33508778,0.57086664,Negative Freq-Dep. Selection
+rs7246484,33509346,0.5696839,Negative Freq-Dep. Selection
+rs347787,33514009,0.5569732,Negative Freq-Dep. Selection
+rs10424438,33524109,,Overdominance
+rs11667498,33543711,0.5346219,Negative Freq-Dep. Selection
+rs7250618,33589400,0.5591684,Negative Freq-Dep. Selection
+rs4806397,33601511,0.5678296,Negative Freq-Dep. Selection
+rs4806416,33621973,,Overdominance
+rs7255960,33627596,0.6463673,Negative Freq-Dep. Selection
+rs7251331,33642044,0.6173561,Negative Freq-Dep. Selection
+rs2190832,33650091,,Overdominance
+rs8106444,33651339,,Overdominance
+rs1860080,33659415,,Overdominance
+rs4805216,33661489,0.58120054,Negative Freq-Dep. Selection
+rs4804839,33675532,,Overdominance
+rs10221456,33685199,,Overdominance
+rs7254583,33824538,,Overdominance
+rs11083654,33927650,0.57368785,Negative Freq-Dep. Selection
+rs2034125,33929449,0.563819,Negative Freq-Dep. Selection
+rs11083656,33934258,0.5772122,Negative Freq-Dep. Selection
+rs12977927,33954771,,Overdominance
+rs12985603,33982353,,Overdominance
+rs759636,34042437,0.6177011,Negative Freq-Dep. Selection
+rs12980305,34050059,,Overdominance
+rs10425332,34055927,0.60027117,Negative Freq-Dep. Selection
+rs7249269,34056748,0.5999601,Negative Freq-Dep. Selection
+rs11083726,34080827,0.6200754,Negative Freq-Dep. Selection
+rs4805298,34088183,0.58765036,Negative Freq-Dep. Selection
+rs4805303,34106471,,Overdominance
+rs17716170,34181683,0.5823601,Negative Freq-Dep. Selection
+rs17691054,34182459,0.5823601,Negative Freq-Dep. Selection
+rs4805321,34199543,0.63897896,Negative Freq-Dep. Selection
+rs1865099,34204412,0.5910486,Negative Freq-Dep. Selection
+rs930224,34212128,,Overdominance
+rs10418577,34217650,0.5933828,Negative Freq-Dep. Selection
+rs7252442,34237341,,Overdominance
+rs4257324,34245888,0.58749455,Negative Freq-Dep. Selection
+rs1549944,34258974,0.6551588,Negative Freq-Dep. Selection
+rs6509228,34265527,0.6618661,Negative Freq-Dep. Selection
+rs7507140,34372678,0.5629433,Negative Freq-Dep. Selection
+rs4805356,34423645,,Overdominance
+rs10408404,34431569,,Overdominance
+rs888301,34453588,0.56889826,Negative Freq-Dep. Selection
+rs12460869,34456427,0.58156604,Negative Freq-Dep. Selection
+rs2865863,34473061,0.66273,Negative Freq-Dep. Selection
+rs7408479,34476513,0.6334076,Negative Freq-Dep. Selection
+rs10404352,34479271,0.6601008,Negative Freq-Dep. Selection
+rs1012613,34488184,0.59712195,Negative Freq-Dep. Selection
+rs2012095,34493070,0.6145351,Negative Freq-Dep. Selection
+rs9789288,34498189,0.6116564,Negative Freq-Dep. Selection
+rs8113733,34499146,0.61168253,Negative Freq-Dep. Selection
+rs8103504,34500036,0.59188795,Negative Freq-Dep. Selection
+rs8108111,34501691,0.5788334,Negative Freq-Dep. Selection
+rs2865878,34517198,,Overdominance
+rs8112403,34530631,,Overdominance
+rs2865890,34539002,,Overdominance
+rs1990391,34551004,0.5747897,Negative Freq-Dep. Selection
+rs10403684,34552727,0.57796115,Negative Freq-Dep. Selection
+rs7248884,34555502,0.5722992,Negative Freq-Dep. Selection
+rs1558363,34557153,0.57981306,Negative Freq-Dep. Selection
+rs4558517,34558833,0.5781283,Negative Freq-Dep. Selection
+rs8109600,34569168,0.5969307,Negative Freq-Dep. Selection
+rs13344206,34572547,0.61784995,Negative Freq-Dep. Selection
+rs10424195,34575417,,Overdominance
+rs8110188,34593590,0.6661817,Negative Freq-Dep. Selection
+rs10853808,34611881,0.68842566,Negative Freq-Dep. Selection
+rs964315,34612613,0.68986666,Negative Freq-Dep. Selection
+rs10412776,34615853,0.7065354,Negative Freq-Dep. Selection
+rs10423905,34620693,0.67601585,Negative Freq-Dep. Selection
+rs4805406,34634203,0.6400945,Negative Freq-Dep. Selection
+rs4805410,34639414,0.6610609,Negative Freq-Dep. Selection
+rs4315448,34641548,0.64291316,Negative Freq-Dep. Selection
+rs4805420,34665351,0.57437456,Negative Freq-Dep. Selection
+rs12460708,34690833,0.59738755,Negative Freq-Dep. Selection
+rs892071,34728921,0.6114539,Negative Freq-Dep. Selection
+rs734837,34732866,0.6467896,Negative Freq-Dep. Selection
+rs730427,34733393,0.6467896,Negative Freq-Dep. Selection
+rs4805441,34780133,0.76770127,Negative Freq-Dep. Selection
+rs891061,34794317,0.7988748,Negative Freq-Dep. Selection
+rs4804893,34794993,0.7988748,Negative Freq-Dep. Selection
+rs10411749,34797809,0.76181114,Negative Freq-Dep. Selection
+rs7283,34798499,0.76181114,Negative Freq-Dep. Selection
+rs12461972,34802337,0.73606944,Negative Freq-Dep. Selection
+rs10415705,34816993,,Overdominance
+rs919400,34846924,0.5281581,Negative Freq-Dep. Selection
+rs8106145,34907923,0.6386898,Negative Freq-Dep. Selection
+rs1428752,34914181,0.6648707,Negative Freq-Dep. Selection
+rs12461902,34957075,,Overdominance
+rs7257330,34993662,0.5673707,Negative Freq-Dep. Selection
+rs997669,34996322,0.56591904,Negative Freq-Dep. Selection
+rs34331990,35013401,,Overdominance
+rs4805487,35028967,0.6189186,Negative Freq-Dep. Selection
+rs10419714,35037445,0.6431417,Negative Freq-Dep. Selection
+rs8113773,35041979,0.6352085,Negative Freq-Dep. Selection
+rs11672155,35049475,,Overdominance
+rs34724,35060850,0.6422488,Negative Freq-Dep. Selection
+rs4805496,35070681,0.5814832,Negative Freq-Dep. Selection
+rs2080887,35110702,0.54769915,Negative Freq-Dep. Selection
+rs11084415,35289347,0.678474,Negative Freq-Dep. Selection
+rs7259325,35302240,0.6857273,Negative Freq-Dep. Selection
+rs4804918,35305432,0.6723284,Negative Freq-Dep. Selection
+rs7248031,35445655,,Overdominance
+rs7257017,35468876,0.56177,Negative Freq-Dep. Selection
+rs17532968,35494894,,Overdominance
+rs17611570,35501321,,Overdominance
+rs10408846,35509753,,Overdominance
+rs1433065,35519211,0.6117236,Negative Freq-Dep. Selection
+rs1019937,35528088,,Overdominance
+rs7247350,35576247,,Overdominance
+rs11666325,35599629,,Overdominance
+rs1433071,35604937,0.6215312,Negative Freq-Dep. Selection
+rs10412132,35606251,,Overdominance
+rs33435,35635295,0.63533914,Negative Freq-Dep. Selection
+rs8104210,35771109,0.62070686,Negative Freq-Dep. Selection
+rs2060241,35775924,0.6019779,Negative Freq-Dep. Selection
+rs12978649,35783936,,Overdominance
+rs746961,35791729,,Overdominance
+rs16964420,35802073,0.5639522,Negative Freq-Dep. Selection
+rs12974562,35829274,,Overdominance
+rs12460988,35853961,,Overdominance
+rs746668,35857109,0.54639643,Negative Freq-Dep. Selection
+rs1184398,35925188,0.5742579,Negative Freq-Dep. Selection
+rs1354137,35928335,0.55395424,Negative Freq-Dep. Selection
+rs1549951,35984183,,Overdominance
+rs6510181,35984559,,Overdominance
+rs934433,36000617,0.57733023,Negative Freq-Dep. Selection
+rs4341857,36014930,,Overdominance
+rs17628152,36031460,0.54494166,Negative Freq-Dep. Selection
+rs10164405,36033122,0.54494166,Negative Freq-Dep. Selection
+rs4548998,36058906,0.65571076,Negative Freq-Dep. Selection
+rs715916,36076175,0.5876491,Negative Freq-Dep. Selection
+rs11084578,36451806,,Overdominance
+rs10401918,36475058,0.6740148,Negative Freq-Dep. Selection
+rs1078373,36492970,0.701197,Negative Freq-Dep. Selection
+rs10412617,36494390,0.68974197,Negative Freq-Dep. Selection
+rs10404151,36500178,0.6445158,Negative Freq-Dep. Selection
+rs1027453,36512900,0.60873246,Negative Freq-Dep. Selection
+rs1039106,36524888,,Overdominance
+rs12610813,36541887,0.56153333,Negative Freq-Dep. Selection
+rs17583023,36549618,,Overdominance
+rs924151,36564110,0.5644072,Negative Freq-Dep. Selection
+rs2542279,36577884,0.5478583,Negative Freq-Dep. Selection
+rs8109101,36581253,0.5478583,Negative Freq-Dep. Selection
+rs8108330,36590115,,Overdominance
+rs10406589,36614727,0.5439108,Negative Freq-Dep. Selection
+rs2052570,36616489,0.5378825,Negative Freq-Dep. Selection
+rs4804966,36625115,,Overdominance
+rs8113581,36670548,,Overdominance
+rs12980184,36680405,0.5423241,Negative Freq-Dep. Selection
+rs9676902,36681363,0.5423241,Negative Freq-Dep. Selection
+rs918584,36684289,,Overdominance
+rs11878635,36688628,,Overdominance
+rs7247132,36713432,0.5657046,Negative Freq-Dep. Selection
+rs8103067,36719255,,Overdominance
+rs12973240,36730541,,Overdominance
+rs11084596,36796819,,Overdominance
+rs892037,36917139,,Overdominance
+rs11084608,37133277,0.60188204,Negative Freq-Dep. Selection
+rs12982079,37136341,0.60014564,Negative Freq-Dep. Selection
+rs12982128,37136408,0.60014564,Negative Freq-Dep. Selection
+rs11673504,37138315,0.59583366,Negative Freq-Dep. Selection
+rs4805721,37265855,0.8190574,Negative Freq-Dep. Selection
+rs7257225,37267178,0.8292216,Negative Freq-Dep. Selection
+rs7256006,37271256,0.7449287,Negative Freq-Dep. Selection
+rs3816053,37286709,0.8296036,Negative Freq-Dep. Selection
+rs7250231,37348928,,Overdominance
+rs1859957,37351179,,Overdominance
+rs8101952,37366152,0.6179009,Negative Freq-Dep. Selection
+rs7260548,37369022,0.6583746,Negative Freq-Dep. Selection
+rs758638,37383872,0.61187744,Negative Freq-Dep. Selection
+rs8110947,37447630,,Overdominance
+rs8105931,37501591,,Overdominance
+rs7252763,37561918,,Overdominance
+rs11668037,37574062,0.55587375,Negative Freq-Dep. Selection
+rs3810400,37587904,,Overdominance
+rs881273,37874160,,Overdominance
+rs7256750,37899485,,Overdominance
+rs8102279,37913166,,Overdominance
+rs4422091,37946608,,Overdominance
+rs12608647,37956188,,Overdominance
+rs11881633,37973764,,Overdominance
+rs4805812,38006958,,Overdominance
+rs1035478,38008163,0.53468615,Negative Freq-Dep. Selection
+rs2287879,38041327,0.5550548,Negative Freq-Dep. Selection
+rs1990990,38053633,0.55210084,Negative Freq-Dep. Selection
+rs2163807,38190818,,Overdominance
+rs2241378,38394084,0.73820174,Negative Freq-Dep. Selection
+rs3786926,38406209,0.78710717,Negative Freq-Dep. Selection
+rs17694094,38415545,0.7802238,Negative Freq-Dep. Selection
+rs3922671,38418650,0.8012749,Negative Freq-Dep. Selection
+rs10405944,38419840,0.7730371,Negative Freq-Dep. Selection
+rs2081048,38445005,0.722195,Negative Freq-Dep. Selection
+rs736289,38448901,0.8322371,Negative Freq-Dep. Selection
+rs11084721,38460853,0.81891483,Negative Freq-Dep. Selection
+rs10403561,38482341,,Overdominance
+rs10427115,38538775,0.5723783,Negative Freq-Dep. Selection
+rs16967984,38540617,0.58697355,Negative Freq-Dep. Selection
+rs8109008,38542000,0.5745287,Negative Freq-Dep. Selection
+rs8111294,38569589,0.6225916,Negative Freq-Dep. Selection
+rs889140,38580840,,Overdominance
+rs3786897,38584848,0.6212731,Negative Freq-Dep. Selection
+rs731839,38590905,,Overdominance
+rs4805885,38597963,0.6529888,Negative Freq-Dep. Selection
+rs12461274,38599376,0.6465324,Negative Freq-Dep. Selection
+rs8182579,38601691,0.6354471,Negative Freq-Dep. Selection
+rs4362488,38606784,0.63875866,Negative Freq-Dep. Selection
+rs7248389,38624155,0.5743236,Negative Freq-Dep. Selection
+rs7258937,38630640,0.5686875,Negative Freq-Dep. Selection
+rs10425678,38669236,0.5609953,Negative Freq-Dep. Selection
+rs33824,38682279,0.59453666,Negative Freq-Dep. Selection
+rs33823,38692565,,Overdominance
+rs33848,38716090,0.70119315,Negative Freq-Dep. Selection
+rs153703,38721538,0.74891925,Negative Freq-Dep. Selection
+rs153704,38724316,0.75252,Negative Freq-Dep. Selection
+rs2278260,38740148,0.87331474,Negative Freq-Dep. Selection
+rs1529486,38747421,0.8398641,Negative Freq-Dep. Selection
+rs12979271,38758732,0.84307486,Negative Freq-Dep. Selection
+rs8112967,38808932,0.6744661,Negative Freq-Dep. Selection
+rs3848605,38818209,0.74668515,Negative Freq-Dep. Selection
+rs919358,38824262,0.7004576,Negative Freq-Dep. Selection
+rs284327,38898575,0.7102555,Negative Freq-Dep. Selection
+rs284328,38898993,0.71249014,Negative Freq-Dep. Selection
+rs284670,38902289,0.6801296,Negative Freq-Dep. Selection
+rs284669,38902622,0.6801296,Negative Freq-Dep. Selection
+rs284683,38911711,0.6557045,Negative Freq-Dep. Selection
+rs284690,38922920,0.6759779,Negative Freq-Dep. Selection
+rs284688,38923381,0.6759779,Negative Freq-Dep. Selection
+rs176174,38924012,0.67180234,Negative Freq-Dep. Selection
+rs369298,38934195,,Overdominance
+rs285694,38952828,,Overdominance
+rs1139231,38980042,0.638287,Negative Freq-Dep. Selection
+rs4805059,38986740,0.6149521,Negative Freq-Dep. Selection
+rs256335,39007736,,Overdominance
+rs4805959,39119005,0.6946448,Negative Freq-Dep. Selection
+rs244763,39250452,0.58989906,Negative Freq-Dep. Selection
+rs244765,39250605,0.59968454,Negative Freq-Dep. Selection
+rs244772,39266063,0.59139615,Negative Freq-Dep. Selection
+rs634451,39268876,0.5931634,Negative Freq-Dep. Selection
+rs554438,39278697,0.62606555,Negative Freq-Dep. Selection
+rs526251,39283500,0.61092114,Negative Freq-Dep. Selection
+rs8100126,39302181,,Overdominance
+rs618940,39328412,,Overdominance
+rs608629,39334976,,Overdominance
+rs520194,39383289,,Overdominance
+rs12977645,39424411,0.53951776,Negative Freq-Dep. Selection
+rs1862491,39695084,,Overdominance
+rs10853940,39738708,0.5433205,Negative Freq-Dep. Selection
+rs2199640,39752077,,Overdominance
+rs2126968,39774235,0.57828325,Negative Freq-Dep. Selection
+rs931065,39782509,0.5837473,Negative Freq-Dep. Selection
+rs7259736,39788103,,Overdominance
+rs11671675,39830096,0.5698901,Negative Freq-Dep. Selection
+rs11667547,39844231,,Overdominance
+rs12459103,39915068,0.54374015,Negative Freq-Dep. Selection
+rs11084786,39974021,0.6147826,Negative Freq-Dep. Selection
+rs11670866,39986225,0.63168716,Negative Freq-Dep. Selection
+rs11084787,39990187,0.6084676,Negative Freq-Dep. Selection
+rs3746236,39990801,0.6236192,Negative Freq-Dep. Selection
+rs4805097,39993928,0.65398854,Negative Freq-Dep. Selection
+rs7259504,39999707,0.58831495,Negative Freq-Dep. Selection
+rs7250748,40003810,0.5875399,Negative Freq-Dep. Selection
+rs7245643,40015331,,Overdominance
+rs8106116,40034761,,Overdominance
+rs2546001,40112681,0.54952186,Negative Freq-Dep. Selection
+rs1811,40126078,0.5899778,Negative Freq-Dep. Selection
+rs2651109,40126352,0.5899778,Negative Freq-Dep. Selection
+rs1345658,40126846,0.59103507,Negative Freq-Dep. Selection
+rs1063235,40140643,0.6091833,Negative Freq-Dep. Selection
+rs2651079,40142069,0.60025424,Negative Freq-Dep. Selection
+rs2546027,40146055,0.5930417,Negative Freq-Dep. Selection
+rs295771,40164257,0.59541816,Negative Freq-Dep. Selection
+rs1687982,40262147,0.71152836,Negative Freq-Dep. Selection
+rs4806078,40269183,0.7529047,Negative Freq-Dep. Selection
+rs7250814,40269710,0.7529047,Negative Freq-Dep. Selection
+rs921935,40292350,0.8244402,Negative Freq-Dep. Selection
+rs1688021,40299988,0.6983587,Negative Freq-Dep. Selection
+rs1688017,40305463,0.671334,Negative Freq-Dep. Selection
+rs14358,40307835,0.6634485,Negative Freq-Dep. Selection
+rs11666576,40316730,,Overdominance
+rs12461849,40324474,,Overdominance
+rs8105262,40327737,,Overdominance
+rs2285515,40352289,0.75258166,Negative Freq-Dep. Selection
+rs1046294,40352386,0.75930834,Negative Freq-Dep. Selection
+rs8107155,40397177,,Overdominance
+rs12986103,40403559,0.6697743,Negative Freq-Dep. Selection
+rs11673347,40411096,0.6472978,Negative Freq-Dep. Selection
+rs2853330,40430123,0.57456636,Negative Freq-Dep. Selection
+rs2853336,40438639,0.5508859,Negative Freq-Dep. Selection
+rs7251432,40467281,0.60770947,Negative Freq-Dep. Selection
+rs12975589,40531569,0.75144,Negative Freq-Dep. Selection
+rs12609605,40574327,0.65475935,Negative Freq-Dep. Selection
+rs4806155,40613106,0.7358305,Negative Freq-Dep. Selection
+rs7254596,40615218,0.6991435,Negative Freq-Dep. Selection
+rs7253076,40646481,0.65532625,Negative Freq-Dep. Selection
+rs6510490,40669149,0.61366886,Negative Freq-Dep. Selection
+rs1007568,40672672,0.631734,Negative Freq-Dep. Selection
+rs2293695,40683213,0.70456266,Negative Freq-Dep. Selection
+rs4805127,40699109,0.7250679,Negative Freq-Dep. Selection
+rs8112614,40761335,0.74265414,Negative Freq-Dep. Selection
+rs1033330,40761472,0.7020711,Negative Freq-Dep. Selection
+rs11667766,40763611,0.7020711,Negative Freq-Dep. Selection
+rs756783,40771544,0.6408341,Negative Freq-Dep. Selection
+rs10410294,40789168,,Overdominance
+rs8110747,40795357,0.59138167,Negative Freq-Dep. Selection
+rs10422762,40849007,0.5774038,Negative Freq-Dep. Selection
+rs10401695,40852674,0.5809251,Negative Freq-Dep. Selection
+rs107068,40896530,0.5400303,Negative Freq-Dep. Selection
+rs179570,40943166,,Overdominance
+rs807485,40957348,0.57890767,Negative Freq-Dep. Selection
+rs120960,40968607,,Overdominance
+rs11671781,40987214,0.61071926,Negative Freq-Dep. Selection
+rs11084831,41011545,0.5645288,Negative Freq-Dep. Selection
+rs2071327,41014110,0.5379021,Negative Freq-Dep. Selection
+rs9807812,41159572,0.6172626,Negative Freq-Dep. Selection
+rs909137,41161337,0.6358795,Negative Freq-Dep. Selection
+rs10469279,41187961,0.5691315,Negative Freq-Dep. Selection
+rs7247057,41215830,0.5471114,Negative Freq-Dep. Selection
+rs1009381,41229799,,Overdominance
+rs7245762,41255589,,Overdominance
+rs7246292,41264404,0.5484819,Negative Freq-Dep. Selection
+rs757223,41266638,0.5484819,Negative Freq-Dep. Selection
+rs2231568,41297634,0.61647826,Negative Freq-Dep. Selection
+rs2072606,41304066,,Overdominance
+rs12981698,41311232,,Overdominance
+rs10410162,41319629,0.6311967,Negative Freq-Dep. Selection
+rs2112971,41358007,,Overdominance
+rs4805162,41366145,0.5836543,Negative Freq-Dep. Selection
+rs8102020,41377530,,Overdominance
+rs2070132,41419205,0.53279954,Negative Freq-Dep. Selection
+rs2972527,41438065,,Overdominance
+rs7253462,41450334,,Overdominance
+rs2945945,41548219,0.5436217,Negative Freq-Dep. Selection
+rs2945972,41562468,,Overdominance
+rs2967517,41574668,0.5324562,Negative Freq-Dep. Selection
+rs2945961,41575284,0.5338718,Negative Freq-Dep. Selection
+rs7246106,41596618,0.5236712,Negative Freq-Dep. Selection
+rs2912420,41647950,,Overdominance
+rs2967436,41739312,0.53742206,Negative Freq-Dep. Selection
+rs3108582,41913675,,Overdominance
+rs1726703,41977210,,Overdominance
+rs1035441,42045631,,Overdominance
+rs544964,42101401,,Overdominance
+rs533863,42128053,0.5662032,Negative Freq-Dep. Selection
+rs571294,42132951,0.5670818,Negative Freq-Dep. Selection
+rs1644634,42133820,0.559785,Negative Freq-Dep. Selection
+rs1667337,42159352,,Overdominance
+rs1644685,42176489,,Overdominance
+rs7254411,42217711,,Overdominance
+rs7245453,42226189,,Overdominance
+rs7248948,42239059,,Overdominance
+rs4254428,42276490,,Overdominance
+rs6510588,42289235,,Overdominance
+rs4239587,42318953,,Overdominance
+rs7255724,42341417,,Overdominance
+rs256735,42557883,0.52881676,Negative Freq-Dep. Selection
+rs256733,42567471,,Overdominance
+rs2385181,42578170,,Overdominance
+rs10422527,42586308,,Overdominance
+rs10419281,42642093,,Overdominance
+rs17246792,42876102,0.53052825,Negative Freq-Dep. Selection
+rs11083433,42901141,,Overdominance
+rs3910952,42984209,,Overdominance
+rs833917,43164184,0.59932464,Negative Freq-Dep. Selection
+rs833912,43167215,0.6064178,Negative Freq-Dep. Selection
+rs7249265,43244278,0.5445432,Negative Freq-Dep. Selection
+rs855620,43256925,,Overdominance
+rs1725489,43269866,,Overdominance
+rs1725474,43276212,0.53234196,Negative Freq-Dep. Selection
+rs8111180,43322000,,Overdominance
+rs8107385,43324592,,Overdominance
+rs332864,43344833,0.5559617,Negative Freq-Dep. Selection
+rs332861,43347821,0.54624003,Negative Freq-Dep. Selection
+rs332839,43367882,,Overdominance
+rs2278429,43375145,,Overdominance
+rs10419131,43388554,0.63988435,Negative Freq-Dep. Selection
+rs3745946,43388894,0.63988435,Negative Freq-Dep. Selection
+rs2278431,43398829,0.6313531,Negative Freq-Dep. Selection
+rs2384780,43400810,0.614453,Negative Freq-Dep. Selection
+rs7253473,43409218,,Overdominance
+rs8102476,43427452,,Overdominance
+rs12976534,43435802,0.58510435,Negative Freq-Dep. Selection
+rs12610267,43436573,0.58510435,Negative Freq-Dep. Selection
+rs11668070,43440753,0.591654,Negative Freq-Dep. Selection
+rs10048529,43454845,0.5631105,Negative Freq-Dep. Selection
+rs8101725,43456911,0.5650507,Negative Freq-Dep. Selection
+rs1052375,43553173,0.5704279,Negative Freq-Dep. Selection
+rs10407327,43627788,,Overdominance
+rs11083462,43651520,0.59866625,Negative Freq-Dep. Selection
+rs10409638,43667136,,Overdominance
+rs10424568,43830788,,Overdominance
+rs979971,43836084,,Overdominance
+rs3786835,43847720,,Overdominance
+rs11083473,43871774,,Overdominance
+rs8107416,43929790,0.5837964,Negative Freq-Dep. Selection
+rs7248584,43949950,0.553303,Negative Freq-Dep. Selection
+rs1966961,43952310,0.56499195,Negative Freq-Dep. Selection
+rs4802887,43988159,0.614167,Negative Freq-Dep. Selection
+rs2075588,43998265,0.6360697,Negative Freq-Dep. Selection
+rs1078734,44000714,0.6104233,Negative Freq-Dep. Selection
+rs7248208,44009846,,Overdominance
+rs9419,44013927,0.5742256,Negative Freq-Dep. Selection
+rs10403012,44021898,0.5694453,Negative Freq-Dep. Selection
+rs10424892,44058274,0.58587253,Negative Freq-Dep. Selection
+rs1529713,44058739,0.59454674,Negative Freq-Dep. Selection
+rs892034,44060838,0.59454674,Negative Freq-Dep. Selection
+rs10410544,44077371,,Overdominance
+rs4803006,44083386,0.7528625,Negative Freq-Dep. Selection
+rs10401843,44141353,0.57284385,Negative Freq-Dep. Selection
+rs934421,44151202,,Overdominance
+rs10415667,44166003,,Overdominance
+rs678885,44175390,,Overdominance
+rs7259473,44184850,,Overdominance
+rs12610248,44193390,,Overdominance
+rs6508841,44206684,0.54215485,Negative Freq-Dep. Selection
+rs1840745,44217752,,Overdominance
+rs10417436,44220772,,Overdominance
+rs7259197,44233929,0.6198003,Negative Freq-Dep. Selection
+rs576261,44251647,,Overdominance
+rs7250361,44269204,0.59714586,Negative Freq-Dep. Selection
+rs7247078,44285672,,Overdominance
+rs692191,44314686,,Overdominance
+rs7257109,44354747,,Overdominance
+rs9676717,44369918,,Overdominance
+rs8109886,44434601,0.59021884,Negative Freq-Dep. Selection
+rs1368442,44527009,,Overdominance
+rs11665711,44577652,0.6398212,Negative Freq-Dep. Selection
+rs35686858,44594179,0.6962881,Negative Freq-Dep. Selection
+rs31725,44606148,0.6474271,Negative Freq-Dep. Selection
+rs31726,44606588,0.6713165,Negative Freq-Dep. Selection
+rs1529733,44641604,,Overdominance
+rs4802030,44648870,0.55814433,Negative Freq-Dep. Selection
+rs1865094,44668809,0.5637153,Negative Freq-Dep. Selection
+rs3212276,44689312,0.6491427,Negative Freq-Dep. Selection
+rs4803256,44705783,0.6166839,Negative Freq-Dep. Selection
+rs10414890,44798228,,Overdominance
+rs6508902,44874435,,Overdominance
+rs3810396,44881178,0.5739107,Negative Freq-Dep. Selection
+rs10421474,44926847,0.54371667,Negative Freq-Dep. Selection
+rs4141230,44928896,0.60624623,Negative Freq-Dep. Selection
+rs2354477,44948928,0.6859019,Negative Freq-Dep. Selection
+rs8101654,44953464,0.68818325,Negative Freq-Dep. Selection
+rs3810386,44998406,0.5409003,Negative Freq-Dep. Selection
+rs3810383,45007242,,Overdominance
+rs2072290,45016856,0.5721164,Negative Freq-Dep. Selection
+rs12975624,45026877,0.62929785,Negative Freq-Dep. Selection
+rs12986299,45030046,0.65550137,Negative Freq-Dep. Selection
+rs10422312,45054412,0.5782517,Negative Freq-Dep. Selection
+rs892117,45403172,,Overdominance
+rs34894858,45408491,,Overdominance
+rs2368575,45511727,0.52940583,Negative Freq-Dep. Selection
+rs4479364,45516128,,Overdominance
+rs4490097,45553563,,Overdominance
+rs268673,45593336,0.55168575,Negative Freq-Dep. Selection
+rs268672,45593444,0.55168575,Negative Freq-Dep. Selection
+rs268687,45621203,0.5692905,Negative Freq-Dep. Selection
+rs166539,45623557,0.5630644,Negative Freq-Dep. Selection
+rs268691,45641512,0.5493137,Negative Freq-Dep. Selection
+rs10411033,45667322,,Overdominance
+rs1461008,45726752,0.5703782,Negative Freq-Dep. Selection
+rs814501,45730414,,Overdominance
+rs843777,45748632,0.5450259,Negative Freq-Dep. Selection
+rs410101,45782030,0.6232695,Negative Freq-Dep. Selection
+rs393569,45786678,0.62649614,Negative Freq-Dep. Selection
+rs1864074,45796699,0.6785851,Negative Freq-Dep. Selection
+rs10410606,45800815,0.6625991,Negative Freq-Dep. Selection
+rs1131620,45809709,0.6390293,Negative Freq-Dep. Selection
+rs1051303,45809895,0.6390293,Negative Freq-Dep. Selection
+rs7259067,45816770,0.61255306,Negative Freq-Dep. Selection
+rs7259237,45816999,0.61255306,Negative Freq-Dep. Selection
+rs11668767,45820149,0.6086949,Negative Freq-Dep. Selection
+rs7257696,45820551,0.6086949,Negative Freq-Dep. Selection
+rs7254268,45833274,,Overdominance
+rs3865452,45902896,,Overdominance
+rs2604913,45910451,,Overdominance
+rs2561530,45916154,0.6273941,Negative Freq-Dep. Selection
+rs7257602,45916738,0.63651526,Negative Freq-Dep. Selection
+rs7248468,45932151,,Overdominance
+rs2290693,45937582,0.62195736,Negative Freq-Dep. Selection
+rs3745216,45941348,0.6190697,Negative Freq-Dep. Selection
+rs1870086,45948359,0.5868278,Negative Freq-Dep. Selection
+rs2279011,45961128,0.5763805,Negative Freq-Dep. Selection
+rs7937,45994545,0.5747313,Negative Freq-Dep. Selection
+rs7252852,46095164,,Overdominance
+rs2014141,46191828,0.55813736,Negative Freq-Dep. Selection
+rs4803417,46199859,0.58818114,Negative Freq-Dep. Selection
+rs11666982,46223207,0.6262476,Negative Freq-Dep. Selection
+rs11672085,46265963,,Overdominance
+rs305998,46279136,,Overdominance
+rs338598,46393368,0.5801681,Negative Freq-Dep. Selection
+rs338594,46395500,0.5960236,Negative Freq-Dep. Selection
+rs338593,46396144,0.5960236,Negative Freq-Dep. Selection
+rs4802111,46425899,0.6002145,Negative Freq-Dep. Selection
+rs4803455,46543348,0.5658169,Negative Freq-Dep. Selection
+rs1046909,46574552,,Overdominance
+rs11879090,46609100,,Overdominance
+rs284653,46620541,0.6176886,Negative Freq-Dep. Selection
+rs7260605,46639475,0.60340595,Negative Freq-Dep. Selection
+rs8111279,46820042,0.59988844,Negative Freq-Dep. Selection
+rs3859460,46824869,0.5862467,Negative Freq-Dep. Selection
+rs2109075,46844069,,Overdominance
+rs2215284,46867000,,Overdominance
+rs1860329,46880231,0.54990965,Negative Freq-Dep. Selection
+rs3928916,46899464,0.5780087,Negative Freq-Dep. Selection
+rs8104958,47032645,0.5377811,Negative Freq-Dep. Selection
+rs10404939,47033698,0.5377811,Negative Freq-Dep. Selection
+rs2290695,47034159,0.5377811,Negative Freq-Dep. Selection
+rs2305809,47046469,,Overdominance
+rs6509002,47049909,,Overdominance
+rs2075750,47065519,,Overdominance
+rs10417985,47068973,,Overdominance
+rs3826706,47485429,,Overdominance
+rs1206032,47563136,,Overdominance
+rs8110598,47632899,,Overdominance
+rs7250302,48272588,,Overdominance
+rs7259375,48576925,,Overdominance
+rs8109124,48593671,,Overdominance
+rs2260219,48658987,0.6090982,Negative Freq-Dep. Selection
+rs1125030,48691473,0.5611372,Negative Freq-Dep. Selection
+rs2682547,48692896,0.5447381,Negative Freq-Dep. Selection
+rs2682563,48729167,,Overdominance
+rs2030404,48735287,,Overdominance
+rs3213356,48750078,0.583568,Negative Freq-Dep. Selection
+rs3213263,48767993,0.6085028,Negative Freq-Dep. Selection
+rs3817,48782034,0.60328174,Negative Freq-Dep. Selection
+rs1860149,48810519,,Overdominance
+rs3046,48816574,0.5773668,Negative Freq-Dep. Selection
+rs2239372,48854793,0.79240286,Negative Freq-Dep. Selection
+rs344783,48864027,0.833572,Negative Freq-Dep. Selection
+rs346047,48882466,0.7048638,Negative Freq-Dep. Selection
+rs3760982,48978353,,Overdominance
+rs1386502,48985196,,Overdominance
+rs349046,48992466,0.68677866,Negative Freq-Dep. Selection
+rs349049,48993240,0.69473463,Negative Freq-Dep. Selection
+rs349050,48993265,0.69473463,Negative Freq-Dep. Selection
+rs10416177,48993383,0.69362044,Negative Freq-Dep. Selection
+rs11547806,48994905,0.6535129,Negative Freq-Dep. Selection
+rs2356400,49013616,0.6187201,Negative Freq-Dep. Selection
+rs349030,49023650,,Overdominance
+rs12977303,49069509,,Overdominance
+rs171238,49071394,,Overdominance
+rs1978723,49075640,,Overdominance
+rs239938,49082145,,Overdominance
+rs423765,49108039,,Overdominance
+rs417699,49109415,,Overdominance
+rs407731,49109917,,Overdominance
+rs425221,49110384,,Overdominance
+rs388706,49110533,,Overdominance
+rs399098,49110664,,Overdominance
+rs444816,49130206,,Overdominance
+rs7255894,49157325,0.5652159,Negative Freq-Dep. Selection
+rs381872,49157996,0.56243354,Negative Freq-Dep. Selection
+rs397276,49159245,0.575668,Negative Freq-Dep. Selection
+rs415499,49181864,0.5890281,Negative Freq-Dep. Selection
+rs1236711,49329671,0.56226325,Negative Freq-Dep. Selection
+rs12609635,49352807,,Overdominance
+rs11671074,49495959,,Overdominance
+rs2722722,49524715,0.53672445,Negative Freq-Dep. Selection
+rs2571104,49532629,,Overdominance
+rs7251134,49545547,,Overdominance
+rs2571081,49567157,,Overdominance
+rs204547,49639023,0.59079933,Negative Freq-Dep. Selection
+rs204541,49646953,0.6361033,Negative Freq-Dep. Selection
+rs2571042,49678542,,Overdominance
+rs892596,49695106,0.66603345,Negative Freq-Dep. Selection
+rs8100718,49707956,0.6847409,Negative Freq-Dep. Selection
+rs11670955,49714537,0.83112854,Negative Freq-Dep. Selection
+rs7260180,49720009,,Overdominance
+rs12461127,49744441,0.74546736,Negative Freq-Dep. Selection
+rs4468734,49778786,,Overdominance
+rs1997231,49812876,0.60007334,Negative Freq-Dep. Selection
+rs2357107,49824204,,Overdominance
+rs2965155,49880311,0.6275193,Negative Freq-Dep. Selection
+rs4802234,49914440,,Overdominance
+rs1004165,49924045,0.6267196,Negative Freq-Dep. Selection
+rs2965174,49936854,0.5845837,Negative Freq-Dep. Selection
+rs1871045,50018607,0.5891201,Negative Freq-Dep. Selection
+rs10426423,50040093,,Overdominance
+rs1871047,50043585,,Overdominance
+rs4803766,50063007,0.67560315,Negative Freq-Dep. Selection
+rs1160985,50095251,0.68383825,Negative Freq-Dep. Selection
+rs405509,50100675,0.6362839,Negative Freq-Dep. Selection
+rs439401,50106290,0.6199313,Negative Freq-Dep. Selection
+rs5157,50139000,0.5795135,Negative Freq-Dep. Selection
+rs1132899,50139875,0.5500739,Negative Freq-Dep. Selection
+rs2288911,50141123,0.5500739,Negative Freq-Dep. Selection
+rs3760627,50149019,0.55815196,Negative Freq-Dep. Selection
+rs204905,50152604,0.5689208,Negative Freq-Dep. Selection
+rs2288918,50220639,,Overdominance
+rs1560725,50235626,0.58475965,Negative Freq-Dep. Selection
+rs2163842,50240342,0.56360084,Negative Freq-Dep. Selection
+rs10416445,50248502,,Overdominance
+rs2304195,50254711,0.57324135,Negative Freq-Dep. Selection
+rs10419815,50260849,,Overdominance
+rs1469704,50281435,,Overdominance
+rs3745157,50286435,,Overdominance
+rs7251736,50310742,,Overdominance
+rs8109620,50354299,0.53813446,Negative Freq-Dep. Selection
+rs2159324,50387578,0.57518345,Negative Freq-Dep. Selection
+rs11667430,50408037,,Overdominance
+rs346751,50426273,,Overdominance
+rs346750,50429058,,Overdominance
+rs123187,50522786,,Overdominance
+rs12972151,50527823,,Overdominance
+rs13181,50546758,0.6334071,Negative Freq-Dep. Selection
+rs50871,50554354,,Overdominance
+rs171140,50556841,,Overdominance
+rs1618536,50563445,,Overdominance
+rs11878644,50568807,,Overdominance
+rs2276469,50666432,0.6392112,Negative Freq-Dep. Selection
+rs8103655,50673295,0.5916529,Negative Freq-Dep. Selection
+rs7250901,50678729,,Overdominance
+rs4511641,50685408,0.58505166,Negative Freq-Dep. Selection
+rs8099878,50711440,,Overdominance
+rs2239378,50713354,,Overdominance
+rs11083772,50742600,,Overdominance
+rs7256951,50768066,0.5476319,Negative Freq-Dep. Selection
+rs10411518,50797038,,Overdominance
+rs2286756,50836865,0.6069049,Negative Freq-Dep. Selection
+rs10408179,50848843,0.641164,Negative Freq-Dep. Selection
+rs11668847,50902205,0.5613748,Negative Freq-Dep. Selection
+rs2041975,50930395,,Overdominance
+rs522769,50976359,0.53729975,Negative Freq-Dep. Selection
+rs12463359,50996425,,Overdominance
+rs16980051,51037726,0.53993785,Negative Freq-Dep. Selection
+rs12460033,51098538,,Overdominance
+rs12461550,51106074,0.6242303,Negative Freq-Dep. Selection
+rs10500293,51123478,0.6715124,Negative Freq-Dep. Selection
+rs12610687,51165416,0.5468831,Negative Freq-Dep. Selection
+rs749818,51188633,,Overdominance
+rs4803880,51192134,0.624147,Negative Freq-Dep. Selection
+rs8102495,51201419,0.67816585,Negative Freq-Dep. Selection
+rs2341891,51249393,0.60586995,Negative Freq-Dep. Selection
+rs8111075,51252350,0.5887136,Negative Freq-Dep. Selection
+rs8101445,51255493,0.5881281,Negative Freq-Dep. Selection
+rs4803895,51257321,0.5845246,Negative Freq-Dep. Selection
+rs7250786,51263508,,Overdominance
+rs4802289,51282315,,Overdominance
+rs11666311,51328940,,Overdominance
+rs12151345,51337042,0.5490808,Negative Freq-Dep. Selection
+rs9304656,51338776,0.54415274,Negative Freq-Dep. Selection
+rs12459451,51362749,,Overdominance
+rs10439109,51367024,,Overdominance
+rs2253940,51405037,0.5393328,Negative Freq-Dep. Selection
+rs12971702,51408556,0.55878586,Negative Freq-Dep. Selection
+rs7255414,51412504,0.5521514,Negative Freq-Dep. Selection
+rs1001609,51420697,0.55564976,Negative Freq-Dep. Selection
+rs2017924,51421138,0.562003,Negative Freq-Dep. Selection
+rs1008591,51422454,0.57407594,Negative Freq-Dep. Selection
+rs2286804,51426095,0.58316475,Negative Freq-Dep. Selection
+rs4803913,51460593,,Overdominance
+rs4803919,51475096,0.6567513,Negative Freq-Dep. Selection
+rs7257842,51476600,0.6567513,Negative Freq-Dep. Selection
+rs8104475,51478246,0.6394267,Negative Freq-Dep. Selection
+rs10404903,51543766,0.555054,Negative Freq-Dep. Selection
+rs2239379,51550401,0.5484252,Negative Freq-Dep. Selection
+rs11670522,51577817,0.6400693,Negative Freq-Dep. Selection
+rs3764613,51588057,0.67513347,Negative Freq-Dep. Selection
+rs11670069,51589699,0.67513347,Negative Freq-Dep. Selection
+rs4803941,51592664,0.69741464,Negative Freq-Dep. Selection
+rs453394,51615592,0.67320305,Negative Freq-Dep. Selection
+rs11083825,51618507,0.61886215,Negative Freq-Dep. Selection
+rs11671212,51645328,0.574851,Negative Freq-Dep. Selection
+rs2288913,51676049,,Overdominance
+rs6509283,51712404,,Overdominance
+rs11668571,51729460,0.6605642,Negative Freq-Dep. Selection
+rs7259810,51795267,,Overdominance
+rs10113,51804487,0.6192528,Negative Freq-Dep. Selection
+rs1005774,51829002,0.642705,Negative Freq-Dep. Selection
+rs314669,51859969,0.6085968,Negative Freq-Dep. Selection
+rs314666,51868665,,Overdominance
+rs3848528,51909941,0.55610096,Negative Freq-Dep. Selection
+rs3786705,51916447,0.55629396,Negative Freq-Dep. Selection
+rs312183,52000506,0.61099404,Negative Freq-Dep. Selection
+rs415530,52049715,,Overdominance
+rs425655,52063456,,Overdominance
+rs311371,52138998,,Overdominance
+rs1862499,52241631,0.6831446,Negative Freq-Dep. Selection
+rs8101491,52334620,,Overdominance
+rs10407441,52422955,,Overdominance
+rs2032809,52428055,,Overdominance
+rs10414428,52432331,0.58155876,Negative Freq-Dep. Selection
+rs4804031,52440799,,Overdominance
+rs2302985,52453382,,Overdominance
+rs888836,52466611,,Overdominance
+rs10853784,52485025,,Overdominance
+rs12976740,52615940,0.5739414,Negative Freq-Dep. Selection
+rs2293424,52671965,0.5573307,Negative Freq-Dep. Selection
+rs3786521,52704810,0.53286904,Negative Freq-Dep. Selection
+rs2341000,52774852,,Overdominance
+rs2914439,52874319,0.59003735,Negative Freq-Dep. Selection
+rs2914436,52876568,0.60087216,Negative Freq-Dep. Selection
+rs2162937,52899967,,Overdominance
+rs2099102,52907445,,Overdominance
+rs7252008,52916233,,Overdominance
+rs6509337,52923385,0.6577028,Negative Freq-Dep. Selection
+rs11672818,52924058,0.6577028,Negative Freq-Dep. Selection
+rs10411441,52925939,0.60220003,Negative Freq-Dep. Selection
+rs2334295,52955447,0.574421,Negative Freq-Dep. Selection
+rs3786777,52977974,0.60206056,Negative Freq-Dep. Selection
+rs8106690,52989690,0.6236621,Negative Freq-Dep. Selection
+rs12462695,52996557,0.7145682,Negative Freq-Dep. Selection
+rs10403102,53009704,,Overdominance
+rs11666029,53015545,0.70883244,Negative Freq-Dep. Selection
+rs4802392,53017224,0.7414565,Negative Freq-Dep. Selection
+rs8112377,53018190,0.7414565,Negative Freq-Dep. Selection
+rs3760819,53028740,0.7103575,Negative Freq-Dep. Selection
+rs4483956,53048964,0.645029,Negative Freq-Dep. Selection
+rs296364,53067509,0.62812495,Negative Freq-Dep. Selection
+rs2972515,53156790,0.57712996,Negative Freq-Dep. Selection
+rs10405393,53163234,0.5730616,Negative Freq-Dep. Selection
+rs6509349,53169921,0.67193544,Negative Freq-Dep. Selection
+rs12052135,53190149,0.82110775,Negative Freq-Dep. Selection
+rs10412317,53199532,0.835946,Negative Freq-Dep. Selection
+rs12975551,53199818,0.86529756,Negative Freq-Dep. Selection
+rs9304671,53200799,0.88563186,Negative Freq-Dep. Selection
+rs2303690,53217319,0.8598363,Negative Freq-Dep. Selection
+rs1366442,53261520,0.683294,Negative Freq-Dep. Selection
+rs7251954,53275051,0.8114897,Negative Freq-Dep. Selection
+rs11564552,53283995,0.70882964,Negative Freq-Dep. Selection
+rs156631,53290634,0.630381,Negative Freq-Dep. Selection
+rs2288883,53328346,,Overdominance
+rs20580,53346364,0.5566968,Negative Freq-Dep. Selection
+rs2163619,53350744,0.56519634,Negative Freq-Dep. Selection
+rs11665831,53402009,0.5555739,Negative Freq-Dep. Selection
+rs1062808,53403288,0.5705419,Negative Freq-Dep. Selection
+rs4802445,53404530,0.57240653,Negative Freq-Dep. Selection
+rs3745718,53406964,0.56477,Negative Freq-Dep. Selection
+rs17294094,53412738,0.58541,Negative Freq-Dep. Selection
+rs16981829,53417235,0.61114997,Negative Freq-Dep. Selection
+rs11083925,53424629,0.61192286,Negative Freq-Dep. Selection
+rs12984929,53437120,0.6876447,Negative Freq-Dep. Selection
+rs4801754,53456669,0.6357087,Negative Freq-Dep. Selection
+rs1504520,53475055,,Overdominance
+rs2380123,53485502,0.6010555,Negative Freq-Dep. Selection
+rs8182501,53521040,,Overdominance
+rs275837,53568002,,Overdominance
+rs433956,53583349,,Overdominance
+rs276711,53611750,,Overdominance
+rs2544800,53763568,0.71460706,Negative Freq-Dep. Selection
+rs11083944,53764077,0.7163875,Negative Freq-Dep. Selection
+rs3760800,53768414,0.78551155,Negative Freq-Dep. Selection
+rs3760802,53768498,0.78551155,Negative Freq-Dep. Selection
+rs3826827,53768734,0.79841554,Negative Freq-Dep. Selection
+rs6509396,53775304,0.785531,Negative Freq-Dep. Selection
+rs12460535,53790561,0.7856736,Negative Freq-Dep. Selection
+rs4149455,53793767,0.77818316,Negative Freq-Dep. Selection
+rs1132054,53794210,0.78006,Negative Freq-Dep. Selection
+rs10410524,53794593,0.7576269,Negative Freq-Dep. Selection
+rs8111500,53844767,0.56762844,Negative Freq-Dep. Selection
+rs414299,53847570,0.55838495,Negative Freq-Dep. Selection
+rs371690,53858687,,Overdominance
+rs281393,53916295,,Overdominance
+rs2307019,53936031,0.5439074,Negative Freq-Dep. Selection
+rs8108136,53939504,0.54460686,Negative Freq-Dep. Selection
+rs8108468,53939597,0.54460686,Negative Freq-Dep. Selection
+rs12975781,53941510,,Overdominance
+rs8102032,53941606,,Overdominance
+rs8104897,53941625,,Overdominance
+rs8105137,53941699,,Overdominance
+rs4801774,53971423,0.5817873,Negative Freq-Dep. Selection
+rs492734,53977807,,Overdominance
+rs473464,54026060,0.5930944,Negative Freq-Dep. Selection
+rs746075,54108748,0.61988103,Negative Freq-Dep. Selection
+rs11083956,54144273,0.5811983,Negative Freq-Dep. Selection
+rs11667229,54147812,0.5840866,Negative Freq-Dep. Selection
+rs905238,54157195,0.5947161,Negative Freq-Dep. Selection
+rs918546,54157772,0.59315354,Negative Freq-Dep. Selection
+rs753307,54210296,0.5570666,Negative Freq-Dep. Selection
+rs3810177,54226835,,Overdominance
+rs4002419,54245943,,Overdominance
+rs11083959,54265017,0.5743542,Negative Freq-Dep. Selection
+rs7250446,54286819,,Overdominance
+rs2303053,54331814,0.67241716,Negative Freq-Dep. Selection
+rs2303054,54332106,0.67241716,Negative Freq-Dep. Selection
+rs7246646,54335349,0.69462794,Negative Freq-Dep. Selection
+rs9304680,54342854,,Overdominance
+rs2278004,54346233,0.6281496,Negative Freq-Dep. Selection
+rs3745298,54350179,0.61805964,Negative Freq-Dep. Selection
+rs3745299,54350202,0.61805964,Negative Freq-Dep. Selection
+rs3745300,54350687,0.6254184,Negative Freq-Dep. Selection
+rs3848549,54419808,,Overdominance
+rs4318314,54437101,,Overdominance
+rs352815,54446871,,Overdominance
+rs171342,54493318,0.55723804,Negative Freq-Dep. Selection
+rs1654313,54526266,0.55097926,Negative Freq-Dep. Selection
+rs12104362,54555521,,Overdominance
+rs7249190,54561352,0.5365392,Negative Freq-Dep. Selection
+rs9304684,54583334,,Overdominance
+rs4802602,54589761,0.53445053,Negative Freq-Dep. Selection
+rs10405154,54590888,0.53445053,Negative Freq-Dep. Selection
+rs10421748,54593130,0.5492604,Negative Freq-Dep. Selection
+rs11669675,54617020,,Overdominance
+rs12975598,54640025,0.7000968,Negative Freq-Dep. Selection
+rs17206882,54647765,0.67233306,Negative Freq-Dep. Selection
+rs12984428,54891428,0.6061328,Negative Freq-Dep. Selection
+rs6509443,54936708,,Overdominance
+rs7251463,54993357,,Overdominance
+rs10421754,54996251,,Overdominance
+rs2305919,55007509,,Overdominance
+rs1290650,55021495,,Overdominance
+rs1290652,55027683,0.5755303,Negative Freq-Dep. Selection
+rs921470,55034940,,Overdominance
+rs1290646,55054986,,Overdominance
+rs4802634,55069568,0.56692,Negative Freq-Dep. Selection
+rs3810267,55070864,0.5728793,Negative Freq-Dep. Selection
+rs8429,55102362,0.6403046,Negative Freq-Dep. Selection
+rs9523,55102944,0.7105826,Negative Freq-Dep. Selection
+rs1044167,55106529,0.7238732,Negative Freq-Dep. Selection
+rs3786666,55116847,0.71009403,Negative Freq-Dep. Selection
+rs283526,55127674,0.7297764,Negative Freq-Dep. Selection
+rs3170545,55128527,0.7343211,Negative Freq-Dep. Selection
+rs8647,55128792,0.7343211,Negative Freq-Dep. Selection
+rs12610975,55131531,0.66709393,Negative Freq-Dep. Selection
+rs8108252,55135873,0.7329658,Negative Freq-Dep. Selection
+rs6509448,55148330,0.71386564,Negative Freq-Dep. Selection
+rs3786669,55178751,,Overdominance
+rs283517,55184932,0.5582733,Negative Freq-Dep. Selection
+rs734910,55216038,0.57830626,Negative Freq-Dep. Selection
+rs648298,55384945,,Overdominance
+rs638286,55397667,,Overdominance
+rs588973,55428767,0.70775336,Negative Freq-Dep. Selection
+rs630283,55437219,,Overdominance
+rs11670669,55443610,0.7661425,Negative Freq-Dep. Selection
+rs393368,55452746,0.8087491,Negative Freq-Dep. Selection
+rs3745504,55463420,0.776292,Negative Freq-Dep. Selection
+rs788338,55470355,0.7462607,Negative Freq-Dep. Selection
+rs788332,55474274,0.70722425,Negative Freq-Dep. Selection
+rs788328,55480315,0.74728566,Negative Freq-Dep. Selection
+rs7251148,55500560,0.65760434,Negative Freq-Dep. Selection
+rs11880103,55519512,0.6010913,Negative Freq-Dep. Selection
+rs1377814,55547747,,Overdominance
+rs2248949,55573980,0.5350326,Negative Freq-Dep. Selection
+rs3810276,55626750,0.6462127,Negative Freq-Dep. Selection
+rs3816551,55628399,0.6462127,Negative Freq-Dep. Selection
+rs2445835,55643501,,Overdominance
+rs3745518,55653873,0.6155897,Negative Freq-Dep. Selection
+rs2278999,55661788,0.56600493,Negative Freq-Dep. Selection
+rs3852863,55680573,,Overdominance
+rs1150927,55725159,0.58001864,Negative Freq-Dep. Selection
+rs6509477,55732228,,Overdominance
+rs6509481,55760027,0.59207827,Negative Freq-Dep. Selection
+rs1978454,55765391,0.65479016,Negative Freq-Dep. Selection
+rs4308052,55767054,0.65479016,Negative Freq-Dep. Selection
+rs8100750,55775407,,Overdominance
+rs6509485,55781420,,Overdominance
+rs8106843,55797960,0.5819372,Negative Freq-Dep. Selection
+rs4801842,55830791,0.5838452,Negative Freq-Dep. Selection
+rs3893128,55867867,0.7581636,Negative Freq-Dep. Selection
+rs4801847,55871709,,Overdominance
+rs4801852,55921308,0.57944673,Negative Freq-Dep. Selection
+rs10432284,55922437,0.63015836,Negative Freq-Dep. Selection
+rs7249061,55928646,,Overdominance
+rs8101336,55946362,,Overdominance
+rs1978605,55985815,0.64344704,Negative Freq-Dep. Selection
+rs4802742,55995116,0.6437257,Negative Freq-Dep. Selection
+rs2247289,55999904,0.59128475,Negative Freq-Dep. Selection
+rs788889,56003061,0.6598807,Negative Freq-Dep. Selection
+rs2033496,56031018,0.785774,Negative Freq-Dep. Selection
+rs266881,56050145,0.7984228,Negative Freq-Dep. Selection
+rs2292185,56050499,0.8196837,Negative Freq-Dep. Selection
+rs6998,56055472,0.82521355,Negative Freq-Dep. Selection
+rs8112276,56057763,0.7710142,Negative Freq-Dep. Selection
+rs1506684,56063231,0.7428853,Negative Freq-Dep. Selection
+rs10424878,56066778,0.7056232,Negative Freq-Dep. Selection
+rs12984214,56066957,0.7056232,Negative Freq-Dep. Selection
+rs7260115,56067414,0.7056232,Negative Freq-Dep. Selection
+rs1654553,56102928,0.77602845,Negative Freq-Dep. Selection
+rs2664152,56106962,0.83314353,Negative Freq-Dep. Selection
+rs1701930,56111357,0.7645268,Negative Freq-Dep. Selection
+rs2659079,56113303,0.7440496,Negative Freq-Dep. Selection
+rs8101572,56115440,0.7426888,Negative Freq-Dep. Selection
+rs870361,56116702,0.76124704,Negative Freq-Dep. Selection
+rs11084043,56171214,0.6860096,Negative Freq-Dep. Selection
+rs2659071,56187119,0.72410166,Negative Freq-Dep. Selection
+rs1612902,56191007,0.76042324,Negative Freq-Dep. Selection
+rs1722560,56192146,0.76009095,Negative Freq-Dep. Selection
+rs2075802,56198832,0.7421519,Negative Freq-Dep. Selection
+rs2569441,56206434,0.78555745,Negative Freq-Dep. Selection
+rs3760738,56215709,0.82559085,Negative Freq-Dep. Selection
+rs2691229,56238453,0.94191676,Negative Freq-Dep. Selection
+rs885146,56245884,0.93256885,Negative Freq-Dep. Selection
+rs2569472,56247457,0.93769133,Negative Freq-Dep. Selection
+rs10426620,56258685,0.9458018,Negative Freq-Dep. Selection
+rs11665682,56259122,0.9469259,Negative Freq-Dep. Selection
+rs2072689,56277426,0.9189274,Negative Freq-Dep. Selection
+rs2091181,56284375,0.88093454,Negative Freq-Dep. Selection
+rs11666870,56290481,0.8000708,Negative Freq-Dep. Selection
+rs10405562,56302106,0.71809465,Negative Freq-Dep. Selection
+rs273634,56410649,0.6274755,Negative Freq-Dep. Selection
+rs273638,56415924,0.6144669,Negative Freq-Dep. Selection
+rs1399839,56431578,,Overdominance
+rs273651,56439584,,Overdominance
+rs273619,56451748,,Overdominance
+rs1697566,56457765,0.57409936,Negative Freq-Dep. Selection
+rs10853828,56458209,0.58598137,Negative Freq-Dep. Selection
+rs6509523,56459017,0.58598137,Negative Freq-Dep. Selection
+rs10419982,56488931,,Overdominance
+rs1710354,56493952,0.5776833,Negative Freq-Dep. Selection
+rs2062655,56495675,0.5776833,Negative Freq-Dep. Selection
+rs273628,56497130,0.5724005,Negative Freq-Dep. Selection
+rs6509525,56509963,,Overdominance
+rs3177751,56542102,0.646756,Negative Freq-Dep. Selection
+rs3786629,56542409,0.646756,Negative Freq-Dep. Selection
+rs12985380,56552988,,Overdominance
+rs12971528,56554720,,Overdominance
+rs3786625,56561158,,Overdominance
+rs5026035,56566553,0.6922441,Negative Freq-Dep. Selection
+rs3009,56566762,0.697729,Negative Freq-Dep. Selection
+rs2547338,56569929,0.7414077,Negative Freq-Dep. Selection
+rs2547321,56574475,0.73198235,Negative Freq-Dep. Selection
+rs9304712,56617330,,Overdominance
+rs11672925,56659679,,Overdominance
+rs11668530,56693296,0.70331615,Negative Freq-Dep. Selection
+rs10401234,56743570,0.70106405,Negative Freq-Dep. Selection
+rs10412859,56750273,0.64870405,Negative Freq-Dep. Selection
+rs7260534,56766286,0.70689946,Negative Freq-Dep. Selection
+rs7245800,56775364,,Overdominance
+rs1868949,56797671,0.70669,Negative Freq-Dep. Selection
+rs10500308,56800742,0.73028415,Negative Freq-Dep. Selection
+rs3829655,56807456,0.71832067,Negative Freq-Dep. Selection
+rs11084094,56811358,0.6948568,Negative Freq-Dep. Selection
+rs11084095,56818842,0.65174985,Negative Freq-Dep. Selection
+rs7260152,56852117,0.6061011,Negative Freq-Dep. Selection
+rs12459503,56852847,0.61036193,Negative Freq-Dep. Selection
+rs3829647,56908375,0.8102288,Negative Freq-Dep. Selection
+rs8112223,56923787,0.87777793,Negative Freq-Dep. Selection
+rs10422751,56930644,0.8580877,Negative Freq-Dep. Selection
+rs11670567,56932130,0.85712445,Negative Freq-Dep. Selection
+rs10412020,56932654,0.82731694,Negative Freq-Dep. Selection
+rs1042229,56941484,0.80408657,Negative Freq-Dep. Selection
+rs4801891,56946162,0.76049936,Negative Freq-Dep. Selection
+rs17694990,56959514,0.7258573,Negative Freq-Dep. Selection
+rs7254413,56990137,0.6682928,Negative Freq-Dep. Selection
+rs1549931,57095328,,Overdominance
+rs12461478,57122551,0.55285156,Negative Freq-Dep. Selection
+rs7254507,57291100,0.57659835,Negative Freq-Dep. Selection
+rs8111640,57313456,0.59510875,Negative Freq-Dep. Selection
+rs10406099,57316454,0.57710606,Negative Freq-Dep. Selection
+rs1465556,57370875,0.7158011,Negative Freq-Dep. Selection
+rs10420138,57396773,0.6677504,Negative Freq-Dep. Selection
+rs1560092,57402826,0.6856033,Negative Freq-Dep. Selection
+rs9304727,57459909,0.59210473,Negative Freq-Dep. Selection
+rs8112051,57506960,,Overdominance
+rs7247178,57507702,,Overdominance
+rs12462953,57532730,0.6460118,Negative Freq-Dep. Selection
+rs2560878,57557983,0.6952427,Negative Freq-Dep. Selection
+rs324748,57697415,,Overdominance
+rs2068066,57791221,0.64921975,Negative Freq-Dep. Selection
+rs1046648,57807872,0.5931403,Negative Freq-Dep. Selection
+rs7257138,57810841,0.6119685,Negative Freq-Dep. Selection
+rs7255970,57850896,0.6748885,Negative Freq-Dep. Selection
+rs7246133,57853914,0.6554648,Negative Freq-Dep. Selection
+rs7245929,57854294,0.6554648,Negative Freq-Dep. Selection
+rs4530263,57854926,0.65687853,Negative Freq-Dep. Selection
+rs12974023,57855674,0.6567966,Negative Freq-Dep. Selection
+rs34312893,57898537,,Overdominance
+rs11084178,57904173,,Overdominance
+rs7253411,57934838,0.5984278,Negative Freq-Dep. Selection
+rs10403312,57936750,0.5845114,Negative Freq-Dep. Selection
+rs12983988,57989578,0.5655851,Negative Freq-Dep. Selection
+rs10423923,58023851,,Overdominance
+rs1966574,58059204,0.56528383,Negative Freq-Dep. Selection
+rs2162919,58073241,0.60554194,Negative Freq-Dep. Selection
+rs6509701,58075997,0.5857456,Negative Freq-Dep. Selection
+rs11881877,58093572,0.63184863,Negative Freq-Dep. Selection
+rs7251313,58116136,0.6158127,Negative Freq-Dep. Selection
+rs329727,58176172,0.63932097,Negative Freq-Dep. Selection
+rs8102939,58176902,0.6427842,Negative Freq-Dep. Selection
+rs182775,58187145,,Overdominance
+rs329746,58231672,0.6019199,Negative Freq-Dep. Selection
+rs10405102,58262679,0.6854663,Negative Freq-Dep. Selection
+rs10419891,58279182,,Overdominance
+rs6509724,58287981,0.6942421,Negative Freq-Dep. Selection
+rs3814,58302999,0.77631325,Negative Freq-Dep. Selection
+rs1133327,58304557,0.7775389,Negative Freq-Dep. Selection
+rs1054485,58304569,0.7775389,Negative Freq-Dep. Selection
+rs3745181,58311277,0.79645085,Negative Freq-Dep. Selection
+rs16984496,58319694,0.7355106,Negative Freq-Dep. Selection
+rs10423632,58325362,0.7158416,Negative Freq-Dep. Selection
+rs9967612,58326739,0.7158416,Negative Freq-Dep. Selection
+rs8103620,58389749,0.63493484,Negative Freq-Dep. Selection
+rs6509732,58394320,0.65088993,Negative Freq-Dep. Selection
+rs7247982,58410927,0.6946079,Negative Freq-Dep. Selection
+rs4803070,58415425,0.57035106,Negative Freq-Dep. Selection
+rs2965228,58442297,0.61042297,Negative Freq-Dep. Selection
+rs2914370,58452637,0.68663317,Negative Freq-Dep. Selection
+rs3111331,58456577,0.68680435,Negative Freq-Dep. Selection
+rs2965265,58459382,0.6850417,Negative Freq-Dep. Selection
+rs2914354,58471408,0.81865865,Negative Freq-Dep. Selection
+rs4801974,58490756,0.8143648,Negative Freq-Dep. Selection
+rs12461082,58493294,0.816716,Negative Freq-Dep. Selection
+rs2052858,58501727,0.81824243,Negative Freq-Dep. Selection
+rs8104523,58520933,0.67576927,Negative Freq-Dep. Selection
+rs11672485,58525524,0.6676664,Negative Freq-Dep. Selection
+rs12609817,58550994,,Overdominance
+rs4801980,58569516,0.6605613,Negative Freq-Dep. Selection
+rs12610602,58588445,0.63698405,Negative Freq-Dep. Selection
+rs7248917,58631479,0.56593746,Negative Freq-Dep. Selection
+rs11666558,58631502,0.56593746,Negative Freq-Dep. Selection
+rs11670677,58640198,0.5884145,Negative Freq-Dep. Selection
+rs2708751,58641292,0.6143771,Negative Freq-Dep. Selection
+rs1284536,58702089,0.6062974,Negative Freq-Dep. Selection
+rs37396,58712155,0.7632978,Negative Freq-Dep. Selection
+rs1284520,58714537,0.74819815,Negative Freq-Dep. Selection
+rs1293703,58834663,0.6882887,Negative Freq-Dep. Selection
+rs2865857,58908718,0.66498566,Negative Freq-Dep. Selection
+rs2903110,58908767,0.66498566,Negative Freq-Dep. Selection
+rs2082432,58913626,0.646466,Negative Freq-Dep. Selection
+rs3859501,58983223,0.6994055,Negative Freq-Dep. Selection
+rs10418264,58990388,0.71389735,Negative Freq-Dep. Selection
+rs10416363,58995524,0.6674729,Negative Freq-Dep. Selection
+rs7259148,59023872,0.57605135,Negative Freq-Dep. Selection
+rs8101207,59113003,,Overdominance
+rs11672982,59121010,0.5673917,Negative Freq-Dep. Selection
+rs11878489,59122266,0.5673917,Negative Freq-Dep. Selection
+rs4806674,59153350,,Overdominance
+rs10420331,59160880,,Overdominance
+rs7254456,59178585,,Overdominance
+rs3810244,59187744,0.64388084,Negative Freq-Dep. Selection
+rs442126,59211766,0.7534037,Negative Freq-Dep. Selection
+rs681198,59219760,0.7944035,Negative Freq-Dep. Selection
+rs4239594,59228891,0.79853076,Negative Freq-Dep. Selection
+rs2433724,59237343,0.7847667,Negative Freq-Dep. Selection
+rs11669716,59241360,0.78589773,Negative Freq-Dep. Selection
+rs11667088,59242299,0.78829247,Negative Freq-Dep. Selection
+rs10500316,59245509,0.7882678,Negative Freq-Dep. Selection
+rs662850,59258713,0.70519954,Negative Freq-Dep. Selection
+rs11669029,59288431,,Overdominance
+rs10423754,59296634,0.59710294,Negative Freq-Dep. Selection
+rs254259,59298217,0.6015288,Negative Freq-Dep. Selection
+rs12985735,59315361,,Overdominance
+rs36640,59335782,0.68460506,Negative Freq-Dep. Selection
+rs36638,59336306,0.68460506,Negative Freq-Dep. Selection
+rs36664,59342752,0.66298485,Negative Freq-Dep. Selection
+rs1055234,59349812,0.6215394,Negative Freq-Dep. Selection
+rs2576452,59368245,0.76668906,Negative Freq-Dep. Selection
+rs641738,59368575,0.76668906,Negative Freq-Dep. Selection
+rs36631,59383226,,Overdominance
+rs28513,59391198,,Overdominance
+rs11666543,59403793,,Overdominance
+rs11672654,59425145,,Overdominance
+rs2361797,59445354,0.65791225,Negative Freq-Dep. Selection
+rs402071,59459691,,Overdominance
+rs8100863,59481078,0.6558831,Negative Freq-Dep. Selection
+rs1761451,59508321,0.7895766,Negative Freq-Dep. Selection
+rs1205322,59536249,0.8663525,Negative Freq-Dep. Selection
+rs7256494,59541292,0.9216049,Negative Freq-Dep. Selection
+rs8102662,59543040,0.9257559,Negative Freq-Dep. Selection
+rs10426462,59543734,0.9474858,Negative Freq-Dep. Selection
+rs10418607,59549723,0.94234663,Negative Freq-Dep. Selection
+rs4806747,59551823,0.9453009,Negative Freq-Dep. Selection
+rs730592,59555975,0.94314134,Negative Freq-Dep. Selection
+rs725484,59594879,0.6628742,Negative Freq-Dep. Selection
+rs11084337,59607916,0.66747636,Negative Freq-Dep. Selection
+rs7248475,59652315,0.59044313,Negative Freq-Dep. Selection
+rs3813148,59657672,0.58619267,Negative Freq-Dep. Selection
+rs7257085,59677057,0.6169357,Negative Freq-Dep. Selection
+rs7255345,59680527,0.6259582,Negative Freq-Dep. Selection
+rs4806767,59705571,0.7091817,Negative Freq-Dep. Selection
+rs6509880,59709228,0.69754755,Negative Freq-Dep. Selection
+rs4806768,59709320,0.69754755,Negative Freq-Dep. Selection
+rs6509882,59721995,0.76524955,Negative Freq-Dep. Selection
+rs4632258,59727785,0.73497456,Negative Freq-Dep. Selection
+rs1000320,59738192,,Overdominance
+rs4806787,59804301,0.55758977,Negative Freq-Dep. Selection
+rs934434,59863958,0.86736214,Negative Freq-Dep. Selection
+rs1749311,59865309,0.8841081,Negative Freq-Dep. Selection
+rs1654668,59866024,0.89271384,Negative Freq-Dep. Selection
+rs1654656,59875789,0.906699,Negative Freq-Dep. Selection
+rs2296370,59916597,0.67184764,Negative Freq-Dep. Selection
+rs2296371,59916697,0.67184764,Negative Freq-Dep. Selection
+rs10423751,59916779,0.67184764,Negative Freq-Dep. Selection
+rs12982559,59916888,0.67184764,Negative Freq-Dep. Selection
+rs1325158,59918214,0.65107596,Negative Freq-Dep. Selection
+rs11672983,60074862,0.5824843,Negative Freq-Dep. Selection
+rs12462181,60077246,0.5824843,Negative Freq-Dep. Selection
+rs3816051,60077415,0.5824843,Negative Freq-Dep. Selection
+rs269918,60119292,0.6869578,Negative Freq-Dep. Selection
+rs623383,60126387,0.78438556,Negative Freq-Dep. Selection
+rs269938,60131633,0.7730066,Negative Freq-Dep. Selection
+rs269949,60133581,0.7749234,Negative Freq-Dep. Selection
+rs269950,60133714,0.7749234,Negative Freq-Dep. Selection
+rs269951,60133807,0.7749234,Negative Freq-Dep. Selection
+rs12768,60203949,0.6426671,Negative Freq-Dep. Selection
+rs1654410,60216624,0.6078426,Negative Freq-Dep. Selection
+rs1654431,60241569,0.6053757,Negative Freq-Dep. Selection
+rs8113032,60245949,0.65331703,Negative Freq-Dep. Selection
+rs1654467,60273323,0.7420141,Negative Freq-Dep. Selection
+rs1054940,60290536,0.61267364,Negative Freq-Dep. Selection
+rs2603701,60292548,0.6291106,Negative Freq-Dep. Selection
+rs10401558,60293848,0.6291106,Negative Freq-Dep. Selection
+rs2259067,60293927,0.6291106,Negative Freq-Dep. Selection
+rs2288521,60400369,0.6886223,Negative Freq-Dep. Selection
+rs10422892,60414653,0.78350294,Negative Freq-Dep. Selection
+rs9304764,60429628,0.6978732,Negative Freq-Dep. Selection
+rs13343928,60435737,0.7455587,Negative Freq-Dep. Selection
+rs10403164,60465402,,Overdominance
+rs10412187,60466317,,Overdominance
+rs3786544,60479680,0.60580075,Negative Freq-Dep. Selection
+rs4806656,60480307,0.60580075,Negative Freq-Dep. Selection
+rs12611091,60492140,0.6109749,Negative Freq-Dep. Selection
+rs2607336,60495631,0.60885364,Negative Freq-Dep. Selection
+rs7246479,60516144,,Overdominance
+rs10412726,60524239,0.70235723,Negative Freq-Dep. Selection
+rs10411773,60524367,0.70235723,Negative Freq-Dep. Selection
+rs8105530,60531084,0.6777537,Negative Freq-Dep. Selection
+rs6509939,60543520,0.73898494,Negative Freq-Dep. Selection
+rs12610863,60546201,0.7450038,Negative Freq-Dep. Selection
+rs1058511,60551251,,Overdominance
+rs11084396,60557339,,Overdominance
+rs6509940,60575690,,Overdominance
+rs11669732,60604144,,Overdominance
+rs12977991,60617312,0.57116735,Negative Freq-Dep. Selection
+rs7507151,60639108,,Overdominance
+rs35068131,60675666,0.6664416,Negative Freq-Dep. Selection
+rs11084399,60692304,0.718841,Negative Freq-Dep. Selection
+rs4801702,60701693,,Overdominance
+rs542186,60717121,0.6283092,Negative Freq-Dep. Selection
+rs645973,60731863,,Overdominance
+rs2459744,60754761,0.7389182,Negative Freq-Dep. Selection
+rs12974235,60789231,0.5939056,Negative Freq-Dep. Selection
+rs693289,60802848,0.6503342,Negative Freq-Dep. Selection
+rs484519,60809178,,Overdominance
+rs4801628,60984584,0.71637744,Negative Freq-Dep. Selection
+rs10424927,60996419,0.75597876,Negative Freq-Dep. Selection
+rs299175,61005339,0.73770237,Negative Freq-Dep. Selection
+rs299164,61011608,0.77509737,Negative Freq-Dep. Selection
+rs302436,61072856,0.7848436,Negative Freq-Dep. Selection
+rs302437,61072944,0.7848436,Negative Freq-Dep. Selection
+rs302837,61106503,0.7683986,Negative Freq-Dep. Selection
+rs4629084,61111969,0.7078292,Negative Freq-Dep. Selection
+rs304002,61115066,0.71639884,Negative Freq-Dep. Selection
+rs304001,61115480,0.71639884,Negative Freq-Dep. Selection
+rs303997,61116255,0.7260764,Negative Freq-Dep. Selection
+rs464765,61122036,0.7039816,Negative Freq-Dep. Selection
+rs373707,61131152,,Overdominance
+rs434678,61138116,0.6367646,Negative Freq-Dep. Selection
+rs9636113,61142344,0.65463555,Negative Freq-Dep. Selection
+rs427982,61167138,0.6308123,Negative Freq-Dep. Selection
+rs306496,61169522,0.6437368,Negative Freq-Dep. Selection
+rs306491,61172128,0.6409115,Negative Freq-Dep. Selection
+rs16986856,61189772,0.62857217,Negative Freq-Dep. Selection
+rs1865729,61190604,0.62389547,Negative Freq-Dep. Selection
+rs306450,61192861,0.6214144,Negative Freq-Dep. Selection
+rs397977,61231052,0.7337384,Negative Freq-Dep. Selection
+rs10421870,61248958,,Overdominance
+rs7256266,61253977,,Overdominance
+rs2637107,61258553,0.8446782,Negative Freq-Dep. Selection
+rs575756,61386317,0.6766729,Negative Freq-Dep. Selection
+rs2163854,61444704,0.8364702,Negative Freq-Dep. Selection
+rs11084437,61446853,0.8595183,Negative Freq-Dep. Selection
+rs7250032,61456882,0.8788081,Negative Freq-Dep. Selection
+rs8106321,61466373,,Overdominance
+rs4801696,61470853,0.748344,Negative Freq-Dep. Selection
+rs11084440,61474777,0.68308383,Negative Freq-Dep. Selection
+rs12461130,61476840,0.68316406,Negative Freq-Dep. Selection
+rs8104291,61486950,0.66165555,Negative Freq-Dep. Selection
+rs3205192,61489691,0.69988006,Negative Freq-Dep. Selection
+rs8110189,61522069,0.56735617,Negative Freq-Dep. Selection
+rs7245993,61523320,0.55057454,Negative Freq-Dep. Selection
+rs2058319,61555118,0.55442417,Negative Freq-Dep. Selection
+rs2109469,61556041,0.55544716,Negative Freq-Dep. Selection
+rs2904015,61574441,0.6654401,Negative Freq-Dep. Selection
+rs9636161,61592298,0.70193213,Negative Freq-Dep. Selection
+rs3810340,61627339,,Overdominance
+rs8112935,61641779,0.54383963,Negative Freq-Dep. Selection
+rs1542039,61676187,0.597605,Negative Freq-Dep. Selection
+rs7249981,61699803,0.5983892,Negative Freq-Dep. Selection
+rs4801167,61700186,0.5983892,Negative Freq-Dep. Selection
+rs2189698,61705883,,Overdominance
+rs10419939,61719418,,Overdominance
+rs3752176,61728465,0.5405228,Negative Freq-Dep. Selection
+rs960995,61730980,0.57019264,Negative Freq-Dep. Selection
+rs958338,61731511,0.57019264,Negative Freq-Dep. Selection
+rs2074941,61752385,0.60407346,Negative Freq-Dep. Selection
+rs379214,61753885,0.631166,Negative Freq-Dep. Selection
+rs11670421,61760892,0.6168525,Negative Freq-Dep. Selection
+rs4801341,61770457,,Overdominance
+rs10420820,61801633,0.64581215,Negative Freq-Dep. Selection
+rs12973085,61802734,0.7055833,Negative Freq-Dep. Selection
+rs3752183,61804990,0.7737009,Negative Freq-Dep. Selection
+rs4462710,61852327,0.68142515,Negative Freq-Dep. Selection
+rs10404532,61854100,0.6400085,Negative Freq-Dep. Selection
+rs10419133,61856128,0.6400085,Negative Freq-Dep. Selection
+rs6510006,61856742,0.6284176,Negative Freq-Dep. Selection
+rs10422532,61873857,0.69148624,Negative Freq-Dep. Selection
+rs2052242,61878975,0.7142608,Negative Freq-Dep. Selection
+rs11084460,61890337,0.65090454,Negative Freq-Dep. Selection
+rs7258285,61890385,0.65090454,Negative Freq-Dep. Selection
+rs12462745,61910730,0.60598356,Negative Freq-Dep. Selection
+rs12462786,61910775,0.60598356,Negative Freq-Dep. Selection
+rs1476830,61962190,,Overdominance
+rs3795006,61980231,,Overdominance
+rs1558355,62015087,,Overdominance
+rs8100664,62088062,0.62827414,Negative Freq-Dep. Selection
+rs8101034,62109340,0.7262344,Negative Freq-Dep. Selection
+rs12974085,62111398,0.7107498,Negative Freq-Dep. Selection
+rs12978360,62115260,0.84475636,Negative Freq-Dep. Selection
+rs8105449,62125683,0.70636684,Negative Freq-Dep. Selection
+rs12971478,62126378,0.7634891,Negative Freq-Dep. Selection
+rs8101059,62137546,0.79403746,Negative Freq-Dep. Selection
+rs7253030,62151253,,Overdominance
+rs11670532,62180194,0.73159635,Negative Freq-Dep. Selection
+rs10401795,62212954,0.62606114,Negative Freq-Dep. Selection
+rs8110935,62240101,,Overdominance
+rs17273540,62264249,0.71347845,Negative Freq-Dep. Selection
+rs7250836,62264924,0.71226,Negative Freq-Dep. Selection
+rs9677008,62267239,0.71417665,Negative Freq-Dep. Selection
+rs8110460,62275530,0.76106966,Negative Freq-Dep. Selection
+rs10403926,62280110,0.7253812,Negative Freq-Dep. Selection
+rs6510040,62298373,0.62275696,Negative Freq-Dep. Selection
+rs7257033,62299942,,Overdominance
+rs10423919,62318160,0.5709134,Negative Freq-Dep. Selection
+rs3764574,62333910,0.6040201,Negative Freq-Dep. Selection
+rs4801433,62338382,0.60795295,Negative Freq-Dep. Selection
+rs7251328,62338827,0.6097107,Negative Freq-Dep. Selection
+rs11084488,62345676,0.63148916,Negative Freq-Dep. Selection
+rs8108591,62357562,0.58845806,Negative Freq-Dep. Selection
+rs999135,62388197,,Overdominance
+rs8108292,62405107,0.56746906,Negative Freq-Dep. Selection
+rs2361128,62431059,0.5805218,Negative Freq-Dep. Selection
+rs10411733,62482800,0.6220075,Negative Freq-Dep. Selection
+rs3746227,62496336,0.73050493,Negative Freq-Dep. Selection
+rs4289092,62512529,,Overdominance
+rs11084495,62520707,0.7385044,Negative Freq-Dep. Selection
+rs8099984,62535732,,Overdominance
+rs3746226,62554317,0.69445467,Negative Freq-Dep. Selection
+rs11882015,62555432,0.6992872,Negative Freq-Dep. Selection
+rs12709968,62555725,0.6992872,Negative Freq-Dep. Selection
+rs7250521,62561959,0.6462755,Negative Freq-Dep. Selection
+rs8100796,62590645,0.53354704,Negative Freq-Dep. Selection
+rs10853894,62625382,0.60338795,Negative Freq-Dep. Selection
+rs11665675,62631431,,Overdominance
+rs6510070,62653424,0.6238836,Negative Freq-Dep. Selection
+rs6510074,62671979,0.5623107,Negative Freq-Dep. Selection
+rs2360764,62674890,0.5379915,Negative Freq-Dep. Selection
+rs10153521,62675269,0.5379915,Negative Freq-Dep. Selection
+rs10426255,62675617,0.5379915,Negative Freq-Dep. Selection
+rs10405925,62675723,0.5379915,Negative Freq-Dep. Selection
+rs2074059,62677271,0.53581774,Negative Freq-Dep. Selection
+rs2285611,62683887,0.53309333,Negative Freq-Dep. Selection
+rs6510080,62689646,,Overdominance
+rs10410631,62750551,0.56962514,Negative Freq-Dep. Selection
+rs12162230,62886200,,Overdominance
+rs3746208,62891911,,Overdominance
+rs10419113,62903342,0.6111181,Negative Freq-Dep. Selection
+rs9676323,62922432,0.57773924,Negative Freq-Dep. Selection
+rs2239986,62923619,0.57773924,Negative Freq-Dep. Selection
+rs12983947,62966721,0.5502778,Negative Freq-Dep. Selection
+rs12610315,62968468,0.5521614,Negative Freq-Dep. Selection
+rs10422444,62970241,0.5521614,Negative Freq-Dep. Selection
+rs2285615,62979981,,Overdominance
+rs2158013,62983040,,Overdominance
+rs2303817,63017813,,Overdominance
+rs5029044,63066765,0.55833966,Negative Freq-Dep. Selection
+rs11668314,63070328,0.5738915,Negative Freq-Dep. Selection
+rs257663,63156742,0.5516979,Negative Freq-Dep. Selection
+rs257675,63176021,0.5577601,Negative Freq-Dep. Selection
+rs10518271,63186871,0.54978406,Negative Freq-Dep. Selection
+rs11881126,63215802,0.59001744,Negative Freq-Dep. Selection
+rs4801552,63261443,0.5947215,Negative Freq-Dep. Selection
+rs7256947,63262509,0.58709204,Negative Freq-Dep. Selection
+rs11666227,63265371,0.5794418,Negative Freq-Dep. Selection
+rs11673436,63268170,0.6202597,Negative Freq-Dep. Selection
+rs2229375,63270390,0.6308441,Negative Freq-Dep. Selection
+rs2547354,63293033,0.5707451,Negative Freq-Dep. Selection
+rs3745129,63329310,0.5689669,Negative Freq-Dep. Selection
+rs159667,63340171,,Overdominance
+rs159679,63353544,0.5713933,Negative Freq-Dep. Selection
+rs551116,63376423,,Overdominance
+rs7248512,63408175,0.5850656,Negative Freq-Dep. Selection
+rs101447,63412529,0.6017982,Negative Freq-Dep. Selection
+rs260418,63412730,0.6017982,Negative Freq-Dep. Selection
+rs260422,63421645,0.6258294,Negative Freq-Dep. Selection
+rs260441,63432981,0.6408279,Negative Freq-Dep. Selection
+rs48524,63436745,0.63363606,Negative Freq-Dep. Selection
+rs260444,63437281,0.63363606,Negative Freq-Dep. Selection
+rs260484,63450262,0.62624925,Negative Freq-Dep. Selection
+rs260452,63458685,,Overdominance
+rs260462,63465882,0.5935011,Negative Freq-Dep. Selection
+rs260468,63468442,0.6025866,Negative Freq-Dep. Selection
+rs392644,63472315,0.5995422,Negative Freq-Dep. Selection
+rs2449632,63473191,0.6190225,Negative Freq-Dep. Selection
+rs931258,63500520,0.6254016,Negative Freq-Dep. Selection
+rs3830,63558245,0.5296391,Negative Freq-Dep. Selection
+rs11668660,63565396,,Overdominance
+rs7254299,63576777,,Overdominance
+rs3764536,63588524,0.5807731,Negative Freq-Dep. Selection
+rs734380,63590775,0.5637085,Negative Freq-Dep. Selection
+rs893179,63590868,0.5637085,Negative Freq-Dep. Selection
+rs1529959,63591154,0.5637085,Negative Freq-Dep. Selection
+rs2278498,63603580,,Overdominance
+rs10423138,63620114,0.5421858,Negative Freq-Dep. Selection
+rs3764535,63620864,0.5421858,Negative Freq-Dep. Selection
+rs3764533,63621006,0.5421858,Negative Freq-Dep. Selection
+rs1051500,63636214,0.53615725,Negative Freq-Dep. Selection
+rs1465789,63637868,0.53615725,Negative Freq-Dep. Selection
+rs7259841,63642935,,Overdominance
+rs1077420,63660687,,Overdominance
+rs4801595,63670329,,Overdominance
+rs893185,63681307,0.58825755,Negative Freq-Dep. Selection
+rs2033711,63691162,0.59723353,Negative Freq-Dep. Selection
+rs4801273,63692085,0.59723353,Negative Freq-Dep. Selection
+rs2278497,63702631,,Overdominance
+rs13345233,63721118,0.54718494,Negative Freq-Dep. Selection
+rs11666790,63725153,0.5640274,Negative Freq-Dep. Selection
+rs7249714,63749894,,Overdominance
