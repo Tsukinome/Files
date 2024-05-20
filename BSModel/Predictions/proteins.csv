@@ -1,90 +1,19 @@
-Function,Protein,Description
-Immune System and Inflammatory Response,HLA-DRB5,Involved in antigen presentation and immune response.
-Immune System and Inflammatory Response,TAP2,Plays a role in peptide transport for antigen presentation.
-General Cellular Function,FAM118A,Associated with various cellular functions.
-General Cellular Function,MACROD2,Involved in protein de-ADP-ribosylation.
-General Cellular Function,PSMD13,"A subunit of the proteasome, involved in protein degradation."
-Immune System and Inflammatory Response,PSMB9,"Part of the immunoproteasome, involved in antigen processing."
-Immune System and Inflammatory Response,PSMB8,"Part of the immunoproteasome, involved in antigen processing."
-General Cellular Function,PRPSAP2,Involved in nucleotide biosynthesis.
-Gene Regulation,POU5F1,Essential for maintaining pluripotency in embryonic stem cells.
-Metabolism and Biosynthesis,PHGDH,Involved in serine biosynthesis.
-Not Available,MICE,No specific description available.
-General Cellular Function,MANEA,Involved in glycosylation processes.
-Gene Regulation,LINC01007,Long non-coding RNA with regulatory functions.
-Neural Development and Function,LRRTM3,Involved in synaptic function and neural development.
-Immune System and Inflammatory Response,PSORS1C2,Associated with psoriasis susceptibility.
-General Cellular Function,INIP,Involved in DNA repair processes.
-Immune System and Inflammatory Response,IFITM4P,Involved in immune response and antiviral defense.
-Gene Regulation,HNF4G,Regulates gene expression in liver and pancreas.
-Metabolism and Biosynthesis,HMGCS2,Involved in ketogenesis.
-Immune System and Inflammatory Response,HLA-V,Involved in immune response.
-Immune System and Inflammatory Response,HLA-P,Involved in immune response.
-Immune System and Inflammatory Response,HLA-G,Plays a role in immune tolerance during pregnancy.
-Immune System and Inflammatory Response,PSORS1C1,Associated with psoriasis susceptibility.
-Immune System and Inflammatory Response,PSORS1C3,Associated with psoriasis susceptibility.
-Immune System and Inflammatory Response,HLA-F,"Involved in immune system regulation, particularly with NK cells."
-General Cellular Function,SNX30,Involved in intracellular trafficking.
-Not Available,XXbac-BPG299F13.16,No specific description available.
-Not Available,XXbac-BPG254F23.7,No specific description available.
-Not Available,XXbac-BPG248L24.13,No specific description available.
-Not Available,XXbac-BPG170G13.31,No specific description available.
-Metabolism and Biosynthesis,TPO,Involved in thyroid hormone synthesis.
-Gene Regulation,TCF19,Transcription factor involved in cell proliferation.
-General Cellular Function,TAPSAR1,Involved in peptide transport.
-General Cellular Function,TAP1,Plays a role in peptide transport for antigen presentation.
-Neural Development and Function,SNTG2,Involved in synaptic function.
-Not Available,RP11-138I17.1,No specific description available.
-General Cellular Function,SMC1B,Involved in chromosome cohesion during cell division.
-Transport,SLC5A10,Sodium/glucose cotransporter.
-Neural Development and Function,SCN9A,Sodium channel involved in pain perception.
-Not Available,RP5-1119A7.14,No specific description available.
-Not Available,RP3-455E7.1,No specific description available.
-Not Available,RP13-578N3.3,No specific description available.
-Not Available,RP11-762E8.1,No specific description available.
-Not Available,RP11-236B18.2,No specific description available.
-Gene Regulation,HLA-F-AS1,Long non-coding RNA associated with HLA-F.
-Immune System and Inflammatory Response,HLA-DRB9,Involved in antigen presentation.
-General Cellular Function,SMC1B,Involved in chromosome cohesion during cell division.
-Not Available,AC008074.4,No specific description available.
-Metabolism and Biosynthesis,ANGPT1,Involved in angiogenesis and blood vessel maturation.
-Metabolism and Biosynthesis,AK9,Involved in nucleotide metabolism.
-Not Available,AC090286.4,No specific description available.
-Not Available,AC067959.1,No specific description available.
-Not Available,AC064834.1,No specific description available.
-Not Available,AC012501.2,No specific description available.
-Not Available,AC011754.1,No specific description available.
-Not Available,AC011288.2,No specific description available.
-Not Available,AC007040.11,No specific description available.
-Immune System and Inflammatory Response,BTNL2,Involved in immune regulation.
-Neural Development and Function,SV2B,Involved in synaptic vesicle function.
-General Cellular Function,SMC1B,Involved in chromosome cohesion during cell division.
-Transport,SLC39A11,Zinc transporter.
-Not Available,RP11-648K4.2,No specific description available.
-Immune System and Inflammatory Response,IL1RAP,Interleukin-1 receptor accessory protein involved in inflammatory response.
-Neural Development and Function,FAM19A5,Involved in neuronal activities.
-General Cellular Function,FAM118A,Associated with various cellular functions.
-General Cellular Function,ADAM12,Metalloprotease involved in cell-cell and cell-matrix interactions.
-General Cellular Function,ATP6V1B1,"Part of the vacuolar ATPase, involved in proton transport."
-Not Available,C20orf26,No specific description available.
-Immune System and Inflammatory Response,HLA-DRB6,Involved in antigen presentation.
-Not Available,HCG23,No specific description available.
-Immune System and Inflammatory Response,HLA-DRA,Involved in antigen presentation.
-Immune System and Inflammatory Response,HLA-DQB3,Involved in antigen presentation.
-Immune System and Inflammatory Response,HLA-DQB1,Involved in antigen presentation.
-Immune System and Inflammatory Response,HLA-DQA2,Involved in antigen presentation.
-Immune System and Inflammatory Response,HLA-DQA1,Involved in antigen presentation.
-Immune System and Inflammatory Response,HLA-C,Involved in antigen presentation.
-Not Available,HCG4P11,No specific description available.
-Not Available,HCG27,No specific description available.
-Genetic Disorders,FAM111B,"Involved in cellular processes, mutations linked to Kenny-Caffey syndrome."
-Immune System and Inflammatory Response,CCHCR1,Associated with psoriasis susceptibility.
-General Cellular Function,DUSP10,Involved in immune response and cell proliferation.
-Tumor Suppressor,DLC1,Tumor suppressor gene involved in cell migration and proliferation.
-General Cellular Function,DENND6B,Involved in vesicle trafficking.
-General Cellular Function,CTNNA3,Involved in cell adhesion.
-General Cellular Function,CTNNA2,Involved in cell adhesion.
-Neural Development and Function,CNTN5,Involved in neural development.
-General Cellular Function,CDSN,Involved in epidermal cell adhesion.
-General Cellular Function,CCSER1,Involved in cellular processes.
-Not Available,ZNF204P,No specific description available.
+Protein,Function
+AK1,Involved in the regulation of adenylate kinase activity and energy metabolism.
+FAM118A,Potential role in cellular processes and disease mechanisms.
+SMC1B,"Part of the cohesin complex, important for chromosome segregation during meiosis."
+SLC39A11,Zinc transporter involved in maintaining zinc homeostasis.
+RP11-648K4.2,"Non-coding RNA, function not well understood."
+RP11-203J24.9,"Non-coding RNA, potential regulatory roles."
+RP1-63G5.5,"Non-coding RNA, function not well understood."
+PACRG,"Associated with Parkinson’s disease, involved in microtubule stability."
+IL1RAP,"Interleukin-1 receptor accessory protein, involved in inflammatory response."
+FAM19A5,Potentially involved in neural development and function.
+ELFN2,Potential role in synapse formation.
+CTD-2571L23.6,"Non-coding RNA, function not well understood."
+C6orf99,"Chromosome 6 open reading frame 99, function not well understood."
+AL035610.2,"Non-coding RNA, function not well understood."
+AL035610.1,"Non-coding RNA, function not well understood."
+ADAM12,"Metalloprotease involved in cell adhesion, signaling, and migration."
+TPP2,"Tripeptidyl peptidase II, involved in protein degradation."
+SV2B,Synaptic vesicle glycoprotein involved in neurotransmitter release.
